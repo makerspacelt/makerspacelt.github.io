@@ -1,0 +1,15 @@
+body {
+	padding: 1.5em 0;
+}
+
+.centered {
+	text-align: center;
+}
+
+.hero-unit--backgroundless {
+	background-color: transparent;
+}
+
+#footer {
+	margin-top: 3em;
+}

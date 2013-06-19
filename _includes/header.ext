@@ -1,0 +1,23 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js"><!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<title>{% if page.title %} {{ page.title }} – {% endif %} Makerspace.lt</title>
+
+	<meta name="description" content="Vieta kūrėjams, haktyvistams, aktyvistams, konstruotojams, architektams, svajotojams ir kitiems produktyviai gyvenantiems veikėjams">
+	<meta name="keywords" content="hackerspace, hackspace, makerspace, makespace, h@lt, kaunas makerspace, hakeris, hack, maker, open-access, peer-to-peer learning, maker-space, darytojai, kūrėjai, darykla, dirbtuvės, workshop, veikėjai">
+
+	<link rel='stylesheet' href='assets/css/bootstrap.min.css'>
+	<link rel='stylesheet' href='assets/css/bootstrap-responsive.min.css'>
+	<link rel='stylesheet' href='assets/css/style.css'>
+</head>
+<body>
+	<div class="container">
+		<header class="navbar">
+			<div class="navbar-inner">
+				<a class="brand">Makerspace.lt</a>
+			</div>
+		</header>	
