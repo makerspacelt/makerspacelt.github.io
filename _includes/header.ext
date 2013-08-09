@@ -8,16 +8,11 @@
 	<title>{% if page.title %} {{ page.title }} – {% endif %} Makerspace.lt</title>
 
 	<meta name="description" content="Vieta kūrėjams, haktyvistams, aktyvistams, konstruotojams, architektams, svajotojams ir kitiems produktyviai gyvenantiems veikėjams">
-	<meta name="keywords" content="hackerspace, hackspace, makerspace, makespace, h@lt, kaunas makerspace, hakeris, hack, maker, open-access, peer-to-peer learning, maker-space, darytojai, kūrėjai, darykla, dirbtuvės, workshop, veikėjai">
+	<meta name="keywords" content="hackerspace, hackspace, makerspace, makespace, h@lt, kaunas makerspace, hakeris, hack, maker, open-access, peer-to-peer learning, maker-space, darytojai, kūrėjai, darykla, dirbtuvės, workshop, veikėjai, hackerlab, makerlab">
 
-	<link rel='stylesheet' href='assets/css/bootstrap.min.css'>
-	<link rel='stylesheet' href='assets/css/bootstrap-responsive.min.css'>
 	<link rel='stylesheet' href='assets/css/style.css'>
 </head>
 <body>
-	<div class="container">
-		<header class="navbar">
-			<div class="navbar-inner">
-				<a class="brand">Makerspace.lt</a>
-			</div>
-		</header>	
+	<header class="navbar">
+		<a class="brand">Makerspace.lt</a>
+	</header>
