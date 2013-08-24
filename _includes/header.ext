@@ -4,15 +4,32 @@
 <!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9"><![endif]-->
 <!--[if gt IE 8]><!--><html class="no-js"><!--<![endif]-->
 <head>
+	<title>{% if page.menutitle %} {{ page.menutitle }} – {% endif %} Makerspace.lt</title>
 	<meta charset="utf-8">
-	<title>{% if page.title %} {{ page.title }} – {% endif %} Makerspace.lt</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-	<meta name="description" content="Vieta kūrėjams, haktyvistams, aktyvistams, konstruotojams, architektams, svajotojams ir kitiems produktyviai gyvenantiems veikėjams">
+	<meta name="description" content="Atviros dirbtuvės kūrėjams, haktyvistams, aktyvistams, konstruotojams, architektams, svajotojams ir kitiems produktyviai gyvenantiems veikėjams">
 	<meta name="keywords" content="hackerspace, hackspace, makerspace, makespace, h@lt, kaunas makerspace, hakeris, hack, maker, open-access, peer-to-peer learning, maker-space, darytojai, kūrėjai, darykla, dirbtuvės, workshop, veikėjai, hackerlab, makerlab">
 
-	<link rel='stylesheet' href='assets/css/style.css'>
+	<link rel="stylesheet" href="assets/css/style.css" title="main-stylesheet">
+
+	<script type="text/javascript" src="//use.typekit.net/wlw3axb.js"></script>
 </head>
 <body>
-	<header class="navbar">
-		<a class="brand">Makerspace.lt</a>
-	</header>
+	{% if page.path == 'index.md' %}
+		<canvas id="logotype" width="100">Makerspace.lt</canvas>
+	{% else %}
+		<a href="index.html"><canvas id="logotype" width="100">Makerspace.lt</canvas></a>
+	{% endif %}
+	<nav class="nav">
+		{% for node in site.pages %}
+			{% if node.menutitle %}
+				{% if page.url == node.url %}
+					<a class="active">{{ node.menutitle }}</a>
+				{% else %}
+					<a href="{{ node.url }}">{{ node.menutitle }}</a>
+				{% endif %}
+			{% endif %}
+		{% endfor %}
+	</nav>
+	<div id="container">
