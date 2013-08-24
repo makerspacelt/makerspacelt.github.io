@@ -22,7 +22,8 @@
 		<a href="index.html"><canvas id="logotype" width="100">Makerspace.lt</canvas></a>
 	{% endif %}
 	<nav class="nav">
-		{% for node in site.pages %}
+		{% assign sorted_pages = site.pages | sort:"name" %}
+		{% for node in sorted_pages %}
 			{% if node.menutitle %}
 				{% if page.url == node.url %}
 					<a class="active">{{ node.menutitle }}</a>
