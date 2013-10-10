@@ -3,9 +3,9 @@
 		<div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div>
 	</div> -->
 
-	<script src="assets/js/sha256.js"></script>
-	<script src="assets/js/rubikus.js"></script>
-	<script src="assets/js/main.js"></script>
+	<script src="/assets/js/sha256.js"></script>
+	<script src="/assets/js/rubikus.js"></script>
+	<script src="/assets/js/main.js"></script>
 	{% if page.additional-script %}
 		<script type="text/javascript" src="{{ page.additional-script }}"></script>
 	{% endif %}

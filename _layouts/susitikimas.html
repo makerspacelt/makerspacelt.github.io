@@ -1,0 +1,18 @@
+{% include header.ext %}
+		<article>
+			<h1 id="logotype-seed" class="primary-color">Susitikimas – {{ page.title }}</h1>
+			<section>
+				{{ content }}
+			</section>
+		</article>
+		{% if page.previous %}
+			<a class="control control--previous" href="{{ page.previous.url }}" title="{{ page.previous.title }}">
+				<span>‹</span>
+			</a>
+		{% endif %}
+		{% if page.next %}
+			<a class="control control--next" href="{{ page.next.url }}" title="{{ page.next.title }}">
+				<span>›</span>
+			</a>
+		{% endif %}
+{% include footer.ext %}

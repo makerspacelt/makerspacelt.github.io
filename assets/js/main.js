@@ -15,7 +15,7 @@
             hue = logotype.getHue();
             mainColour = "hsla(" + hue + ", 75%, 30%, 1)";
 
-            insertRule(sheet, ".primary-color, .nav a", "color:" + mainColour + ";", 1);
+            insertRule(sheet, ".primary-color, .nav a, .control", "color:" + mainColour + ";", 1);
             insertRule(sheet, "html", "background-color: hsla(" + hue + ", 75%, 97%, 1) !important;", 1);
         },
 

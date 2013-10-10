@@ -11,7 +11,7 @@
 	<meta name="description" content="Atviros dirbtuvės kūrėjams, haktyvistams, aktyvistams, konstruotojams, architektams, svajotojams ir kitiems produktyviai gyvenantiems veikėjams">
 	<meta name="keywords" content="hackerspace, hackspace, makerspace, makespace, h@lt, kaunas makerspace, hakeris, hack, maker, open-access, peer-to-peer learning, maker-space, darytojai, kūrėjai, darykla, dirbtuvės, workshop, veikėjai, hackerlab, makerlab">
 
-	<link rel="stylesheet" href="assets/css/style.css" title="main-stylesheet">
+	<link rel="stylesheet" href="/assets/css/style.css" title="main-stylesheet">
 
 	<script type="text/javascript" src="//use.typekit.net/wlw3axb.js"></script>
 </head>
@@ -19,7 +19,7 @@
 	{% if page.path == 'index.md' %}
 		<canvas id="logotype" width="100">Makerspace.lt</canvas>
 	{% else %}
-		<a href="index.html"><canvas id="logotype" width="100">Makerspace.lt</canvas></a>
+		<a href="/index.html"><canvas id="logotype" width="100">Makerspace.lt</canvas></a>
 	{% endif %}
 	<nav class="nav">
 		{% assign sorted_pages = site.pages | sort:"name" %}

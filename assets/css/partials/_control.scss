@@ -1,0 +1,21 @@
+.control {
+	height: 100%;
+	position: fixed;
+	text-align: center;
+	top: 0;
+
+	> span {
+		font-size: 72px;
+		padding: 0 0.25em;
+		position: relative;
+		top: 43%;
+	}
+}
+
+.control--previous {
+	left: 0;
+}
+
+.control--next {
+	right: 0;
+}
