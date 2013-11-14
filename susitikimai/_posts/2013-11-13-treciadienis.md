@@ -1,6 +1,6 @@
 ---
 layout: susitikimas
-title: 2013 lapkričio 11 d.
+title: 2013 lapkričio 13 d.
 ---
 Dalyvavo DariusV, EglėS, Elijas, MantasK ir naujokas PauliusL.
 
