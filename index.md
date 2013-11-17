@@ -6,4 +6,4 @@ Tu nei pirmas, nei paskutinis, kuriam tenka krapštyti galvą ieškant sprendim�
 
 Išlįskim iš rūsių, draugai—skelbiame kovą už galimybę *daryti*.
 
-Dirbti, veikti, krutėti. Jūsų išskėstomis rankomis laukia padirbtuvės (angl. *makerspace*). Ieškokite mūsų [savo mieste](draugai.html), o kauniečius kviečiame užsukti į [ketvirtą Fluxus Ministerijos aukštą](kontaktai.html) ir apsižiūrėti kas gi čia vyksta.
+Dirbti, veikti, krutėti. Jūsų išskėstomis rankomis laukia padirbtuvės (angl. *makerspace*). Ieškokite mūsų [savo mieste](draugai.html), o kauniečius kviečiame užsukti į [Makerspace Garažą](kontaktai.html) ir apsižiūrėti kas gi čia vyksta.
