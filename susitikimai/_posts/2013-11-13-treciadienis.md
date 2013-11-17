@@ -4,9 +4,9 @@ title: 2013 lapkričio 13 d.
 ---
 Dalyvavo DariusV, EglėS, Elijas, MantasK ir naujokas PauliusL.
 
-DariusV pranešė apie galimybę <www.itmc.lt> sausio mėnesį surengti
-pristatomajį 3 valandų workshopą. Išvada - svarbiausia pasiruošti
-wokshopui, o jau kur jį pravesti tai kaipnors atsiras.
+DariusV pranešė apie galimybę [Informacijos technologijų mokymo centre](http://www.itmc.lt/) sausio mėnesį surengti
+pristatomąjį 3 valandų workshop'ą (dirbtuves). Išvada - svarbiausia pasiruošti
+wokshop'ui, o jau kur jį pravesti tai kaip nors atsiras.
 
 Mantas įkalbino Eglę kartu organizuoti Makerspace įkurtuvių garaže šventę.
 
@@ -15,4 +15,3 @@ randamesnį, bet taip ir nepriėmėm jokio konkretaus sprendimo.
 
 Elijas atsivedė klasioką Paulių kuris atsinešė didžiulį šešiakojį ropojantį
 robotą su Arduino Mega ir kalnu servo variklių. Diskutavom kaip jį tobulinti.
-
