@@ -4,9 +4,10 @@ title: 2013 lapkričio 13 d.
 ---
 Dalyvavo DariusV, EglėS, Elijas, MantasK ir naujokas PauliusL.
 
-DariusV pranešė apie galimybę [Informacijos technologijų mokymo centre](http://www.itmc.lt/) sausio mėnesį surengti
-pristatomąjį 3 valandų workshop'ą (dirbtuves). Išvada - svarbiausia pasiruošti
-wokshop'ui, o jau kur jį pravesti tai kaip nors atsiras.
+DariusV pranešė apie galimybę 
+[Informacijos technologijų mokymo centre](http://www.itmc.lt/) sausio mėnesį 
+surengti pristatomąjį 3 valandų workshop'ą (dirbtuves). Išvada - svarbiausia 
+pasiruošti wokshop'ui, o jau kur jį pravesti tai kaip nors atsiras.
 
 Mantas įkalbino Eglę kartu organizuoti Makerspace įkurtuvių garaže šventę.
 
