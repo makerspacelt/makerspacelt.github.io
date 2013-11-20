@@ -1,9 +1,19 @@
 ---
 layout: default
-title: Nieko baisaus
+title: Atviros dirbtuvės
 ---
-Tu nei pirmas, nei paskutinis, kuriam tenka krapštyti galvą ieškant sprendimų naujai atrastai problemai. Ir lygiai toks pat ne pirmas, kuriam vis prisireikus kokio įnagio tenka to gero ieškoti draugų dulkėtuose sandeliukuose ir tamsiuose rūsiuose.
 
-Išlįskim iš rūsių, draugai—skelbiame kovą už galimybę *daryti*.
+Makerspace yra vieta kur žmonės gali susitikti, dalintis žiniomis bei idėjomis,
+rasti norinčių prisidėti prie jų projektų arba prisidėti prie kitų, mokintis
+ir mokinti, daryti tai ką jie mėgsta. Šioje vietoje yra sudarytos visos
+galimybės darbui, nuo suvirinimo ar drožinėjimo iki programavimo ar
+elektronikos neaplenkiant žinoma ir kitų veiklų. Tiek norinčiam išmokti laikyti
+lituoklį, tiek ir patyrusiam robotų konstruktoriui. Ši vieta yra atvira
+visiems, nepriklausomai nuo amžiaus, lyties ar žinių lygio. Vieta kur žmonės
+gali tobulėti, kurti ir dalintis.
 
-Dirbti, veikti, krutėti. Jūsų išskėstomis rankomis laukia padirbtuvės (angl. *makerspace*). Ieškokite mūsų [savo mieste](draugai.html), o kauniečius kviečiame užsukti į [Makerspace Garažą](kontaktai.html) ir apsižiūrėti kas gi čia vyksta.
+Atviros tarpdisciplininio bendradarbiavimo bei mokymo(si) dirbtuvės jūsų laukia
+išskėstomis rankomis. Ieškokite mūsų [savo mieste](draugai.html), o kauniečius
+kviečiame užsukti į [Makerspace Garažą](kontaktai.html) ir apsižiūrėti kas gi
+čia vyksta.
+
