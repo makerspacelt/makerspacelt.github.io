@@ -1,5 +1,17 @@
-.list {
+.lists {
+	-webkit-column-count: 2;
+	-moz-column-count: 2;
+	column-count: 2;
 
+	vertical-align: top;
+
+	> .list:first-child {
+		margin-top: 2px;
+
+		> li:first-child {
+			margin-top: 0;
+		}
+	}
 }
 
 .list--whitespace {
