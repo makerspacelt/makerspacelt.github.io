@@ -34,9 +34,9 @@ Galų gale, padėk mums parašyti šį README failą taip, kad jis būtų supran
 
 ### Supranti kas čia darosi?
 
-Fork'ink šitą repozitoriją ir kibk į darbą. Github Pages naudoja Jekyll
-statinių puslapių generavimui – tikriausiai vertėtų patikrinti ar kodas, kurį
-rašai „praeina“ be klaidų.
+Fork'ink šitą repozitoriją ir kibk į darbą. Github Pages naudoja
+[Jekyll](http://jekyllrb.com/) statinių puslapių generavimui – tikriausiai
+vertėtų patikrinti ar kodas, kurį rašai, „praeina“ be klaidų.
 
 [Sass](http://sass-lang.com/) yra vienintelis dalykas, kuris šiuo metu
 _būtinas_ norint redaguoti stilius.
