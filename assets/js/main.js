@@ -4,6 +4,9 @@
         hue,
         mainColour,
         logotype,
+        illustrations = {
+            heatedMouse: undefined
+        },
         initRubikus = function () {
             logotype = new Rubikus({
                 canvas: document.getElementById('logotype'),
@@ -17,6 +20,8 @@
 
             insertRule(sheet, ".primary-color, .nav a, .control", "color:" + mainColour + ";", 1);
             insertRule(sheet, "html", "background-color: hsla(" + hue + ", 75%, 97%, 1) !important;", 1);
+
+            initSmouldering();
         },
 
         getMainStylesheet = function () {
@@ -35,6 +40,21 @@
             } else {
                 sheet.addRule(selector, rule, index);
             }
+        },
+
+        initSmouldering = function () {
+            if ( Smouldering ) {
+                illustrations.heatedMouse = new Smouldering({
+                    container: document.getElementById('illustration--heated-mouse'),
+                    colours: [
+                        'hsla(' + hue +',80%,50%, .8)',
+                        'hsla(' + (+hue + 20) +',80%,50%, .8)',
+                        'hsla(' + (+hue - 20) +',80%,50%, .8)',
+                    ]
+                });
+
+                document.getElementById('container').className = 'heated-mouse-workshop';
+            }
         };
 
     try {
@@ -43,7 +63,7 @@
                 initRubikus();
             }
         });
-    } catch(e) {}
+    } catch(e) {};
 })();
 
 function initializeGoogleMap () {
