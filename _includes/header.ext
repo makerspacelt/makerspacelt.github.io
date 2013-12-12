@@ -19,20 +19,21 @@
 </head>
 <body>
 	{% if page.path == 'index.html' %}
-		<canvas id="logotype" width="80">Makerspace.lt</canvas>
+		<div id="page-wrapper">
+		<canvas id="logotype" width="200">Makerspace.lt</canvas>
 	{% else %}
 		<a href="/index.html"><canvas id="logotype" width="80">Makerspace.lt</canvas></a>
-	{% endif %}
-	<nav class="nav">
-		{% assign sorted_pages = site.pages | sort:"name" %}
-		{% for node in sorted_pages %}
-			{% if node.menutitle %}
-				{% if page.url == node.url %}
-					<a class="active">{{ node.menutitle }}</a>
-				{% else %}
-					<a href="{{ node.url }}">{{ node.menutitle }}</a>
+		<nav id="main-nav" class="nav layout--single-column">
+			{% assign sorted_pages = site.pages | sort:"name" %}
+			{% for node in sorted_pages %}
+				{% if node.menutitle %}
+					{% if page.url == node.url %}
+						<a class="active">{{ node.menutitle }}</a>
+					{% else %}
+						<a href="{{ node.url }}">{{ node.menutitle }}</a>
+					{% endif %}
 				{% endif %}
-			{% endif %}
-		{% endfor %}
-	</nav>
+			{% endfor %}
+		</nav>
+	{% endif %}
 	<div id="container">

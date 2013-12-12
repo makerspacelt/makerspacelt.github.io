@@ -3,6 +3,8 @@
 	-moz-column-count: 2;
 	column-count: 2;
 
+	margin: 0 2em;
+
 	vertical-align: top;
 
 	> .list:first-child {
@@ -12,6 +14,10 @@
 			margin-top: 0;
 		}
 	}
+}
+
+.for-lists {
+	margin-left: 1.375em;
 }
 
 .list--whitespace {

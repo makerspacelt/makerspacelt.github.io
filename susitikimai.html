@@ -3,9 +3,21 @@ layout: default
 title: Susitikimų žurnalas
 menutitle: Susitikimai
 ---
-<p>Darytojai susitinka kiekvieną trečiadienį <a href="kontaktai.html">Kauno Makerspace patalpose</a>, kur laukiami visi: ir nedrąsūs pradedantieji, ir sertifikuoti daktarai, ir nusipelnę menininkai. Nori išmėginti naują užsiėmimą? Trokšti išmokti kažko naujo? Nori rasti bendraminčių projektui? Nori padėti kitiems? Puiki proga apsilankyti – trečiadieniai skiriami visuotiniam susitikimui ir susipažinimui. Kavą ar arbatą pastatysim.</p>
+<div class="layout--single-column">
 
-<p>O iki tol rodom kas vyko ankstesniuose susitikimuose. Imkit mane ir skaitykit:</p>
+	<p>
+		Darytojai susitinka kiekvieną trečiadienį 
+		<a href="kontaktai.html">Kauno Makerspace patalpose</a>, kur laukiami 
+		visi: ir nedrąsūs pradedantieji, ir sertifikuoti daktarai, ir 
+		nusipelnę menininkai. Nori išmėginti naują užsiėmimą? Trokšti išmokti 
+		kažko naujo? Nori rasti bendraminčių projektui? Nori padėti kitiems? 
+		Puiki proga apsilankyti – trečiadieniai skiriami visuotiniam 
+		susitikimui ir susipažinimui. Kavą ar arbatą pastatysim.
+	</p>
+
+	<p>O iki tol rodom kas vyko ankstesniuose susitikimuose. Imkit mane ir skaitykit:</p>
+
+</div>
 
 {% for post in site.categories.susitikimai %}
 
@@ -15,7 +27,7 @@ menutitle: Susitikimai
 	{% capture next_month %}{{ post.previous.date | date: "%B" }}{% endcapture %}
 
 	{% if forloop.first %}
-		<h2>{{ this_year }}</h2>
+		<h2 class="for-lists">{{ this_year }}</h2>
 		<div class="lists">
 		<ul class="list list--whitespace">
 	{% endif %}

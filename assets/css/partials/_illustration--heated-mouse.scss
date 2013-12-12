@@ -1,16 +1,27 @@
 #illustration--heated-mouse {
-	display: inline-block;
-	float: right;
 	height: 15em;
-	margin-left: 4em;
+	margin: 3em 0 -3em 0;
 }
 
 #container.heated-mouse-workshop {
-	> article {
-		> h1,
-		> h2,
-		> section {
-			width: 800px;
-		}
+	header {
+		text-align: center;
 	}
+}
+
+.home #logotype {
+	margin-top: -7em;
+}
+
+.home #main-nav {
+	text-align: center;
+	left: 0;
+}
+
+#page-wrapper {
+	border-width: 0.5em;
+	border-style: solid;
+	height: 98%;
+	width: 98%;
+	margin: 1%;
 }

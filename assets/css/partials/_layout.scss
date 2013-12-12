@@ -4,17 +4,31 @@
 	top: 0.75em;
 }
 
+.home #logotype {
+	left: 50%;
+	position: relative;
+	margin: 0 0 0 -100px;
+}
+
 .nav {
-	text-align: right;
-	padding: 1.5em 2em 0;
+	padding: 1.5em 2em;
+}
+
+#main-nav {
+	padding: 1.5em 0;
+	position: relative;
+	left: -1em;
+}
+
+.home #main-nav {
+	text-align: center;
+	left: 0;
 }
 
 #container {
 	margin: 0 0 5em;
 
 	> article {
-		> h1,
-		> h2,
 		> section {
 			width: 700px;
 			@include sides-margin(auto);
@@ -25,4 +39,18 @@
 #google-map {
 	height: 400px;
 	margin: 1.5em 0;
+}
+
+.layout--header {
+	padding: 0 0 1em;
+
+}
+
+.layout--single-column {
+	margin: 0 auto;
+	width: 700px;
+}
+
+.layout--center {
+	text-align: center;
 }

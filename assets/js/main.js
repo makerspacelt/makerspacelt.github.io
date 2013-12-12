@@ -20,6 +20,7 @@
 
             insertRule(sheet, ".primary-color, .nav a, .control", "color:" + mainColour + ";", 1);
             insertRule(sheet, "html", "background-color: hsla(" + hue + ", 75%, 97%, 1) !important;", 1);
+            insertRule(sheet, "#page-wrapper", "border-color: hsla(" + hue + ", 30%, 80%, 1);", 1);
 
             initSmouldering();
         },
