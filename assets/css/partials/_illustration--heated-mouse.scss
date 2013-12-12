@@ -1,6 +1,16 @@
 #illustration--heated-mouse {
 	display: inline-block;
+	float: right;
 	height: 15em;
-	margin: 0 2.5em;
-	vertical-align: top;
+	margin-left: 4em;
+}
+
+#container.heated-mouse-workshop {
+	> article {
+		> h1,
+		> h2,
+		> section {
+			width: 800px;
+		}
+	}
 }

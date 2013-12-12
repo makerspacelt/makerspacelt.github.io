@@ -17,9 +17,9 @@
 </head>
 <body>
 	{% if page.path == 'index.md' %}
-		<canvas id="logotype" width="100">Makerspace.lt</canvas>
+		<canvas id="logotype" width="80">Makerspace.lt</canvas>
 	{% else %}
-		<a href="/index.html"><canvas id="logotype" width="100">Makerspace.lt</canvas></a>
+		<a href="/index.html"><canvas id="logotype" width="80">Makerspace.lt</canvas></a>
 	{% endif %}
 	<nav class="nav">
 		{% assign sorted_pages = site.pages | sort:"name" %}

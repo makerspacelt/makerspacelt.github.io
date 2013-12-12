@@ -1,20 +1,28 @@
 #logotype {
 	left: 2em;
-	position: fixed;
-	top: 0.5em;
+	position: absolute;
+	top: 0.75em;
 }
 
 .nav {
 	text-align: right;
-	padding: 1.5em 2em;
+	padding: 1.5em 2em 0;
 }
 
 #container {
-	margin: 0 10em 5em;
+	margin: 0 0 5em;
+
+	> article {
+		> h1,
+		> h2,
+		> section {
+			width: 700px;
+			@include sides-margin(auto);
+		}
+	}
 }
 
-#google-map { height: 400px; }
-
-p {
-	max-width: 40em;
+#google-map {
+	height: 400px;
+	margin: 1.5em 0;
 }

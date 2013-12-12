@@ -31,6 +31,11 @@
 	padding-right: $number;
 }
 
+@mixin sides-margin($number) {
+	margin-left: $number;
+	margin-right: $number;
+}
+
 @mixin vendor-prefix($name, $argument) {
 	-webkit-#{$name}: $argument;
 	-moz-#{$name}: $argument;

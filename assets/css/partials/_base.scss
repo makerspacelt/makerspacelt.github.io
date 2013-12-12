@@ -31,6 +31,11 @@ body {
 	@include breakpoint($bp4) {
 		font-size: 18px;
 	}
+
+	@include breakpoint($bp5) {
+		font-size: 21px;
+		line-height: 1.5;
+	}
 }
 
 *,
@@ -55,7 +60,7 @@ a {
 	border: 0;
 	display: inline-block;
 	padding: 1em;
-	font-weight: bold;
+	font-weight: normal;
 }
 
 .nav .active {
