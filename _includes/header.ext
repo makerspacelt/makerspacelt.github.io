@@ -1,5 +1,10 @@
 <!doctype html>
-<html class="no-js">
+{% if page.path == 'index.html' %}
+{% assign pageClass = 'home' %}
+{% else %}
+{% assign pageClass = '' %}
+{% endif %}
+<html class="no-js {{ pageClass }}">
 <head>
 	<title>{% if page.menutitle %} {{ page.menutitle }} – {% endif %} Makerspace.lt</title>
 	<meta charset="utf-8">
@@ -13,7 +18,7 @@
 	<script type="text/javascript" src="//use.typekit.net/wlw3axb.js"></script>
 </head>
 <body>
-	{% if page.path == 'index.md' %}
+	{% if page.path == 'index.html' %}
 		<canvas id="logotype" width="80">Makerspace.lt</canvas>
 	{% else %}
 		<a href="/index.html"><canvas id="logotype" width="80">Makerspace.lt</canvas></a>
