@@ -1,19 +1,4 @@
 	</div><!-- #container -->
-	{% if page.path == 'index.html' %}
-		<nav id="main-nav" class="nav layout--single-column">
-			{% assign sorted_pages = site.pages | sort:"name" %}
-			{% for node in sorted_pages %}
-				{% if node.menutitle %}
-					{% if page.url == node.url %}
-						<a class="active">{{ node.menutitle }}</a>
-					{% else %}
-						<a href="{{ node.url }}">{{ node.menutitle }}</a>
-					{% endif %}
-				{% endif %}
-			{% endfor %}
-		</nav>
-	</div><!-- #page-wrapper -->
-	{% endif %}
 
 	{% if page.preload-module %}
 		{% assign scripts = page.preload-module | split: "|" %}
