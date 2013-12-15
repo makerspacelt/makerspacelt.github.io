@@ -11,5 +11,5 @@ pečiaus atiduodamos šilumos efektyvumą, smagiai pavakarojom.
 
 Po susitikimo į Maker-garažą įriedėjo automobilis. Neliko nei vieno su
 švariom rankom ;)
-Štai čia 30 kartų pagreitintas įrašas: (http://youtu.be/yOtxbHD9tM8)
+Štai čia 30 kartų pagreitintas įrašas: <http://youtu.be/yOtxbHD9tM8>
 
