@@ -10,6 +10,6 @@ Dalyvavo DariusV, EglėŠ
 Pajungėm Raspberry Pi - iškart pasijuto civilizacijos dvelksmas.
 Darius atliko paskutinius potepius lazerinio čiaupo projekte.
 Atidarėm Maker-muziejų, ta proga Eglė sukūrė dar vieną eksponatą.
-Netrukus turėtų atsirasti nuotrauka facebook`e
+Netrukus turėtų atsirasti nuotrauka facebooke
 
 
