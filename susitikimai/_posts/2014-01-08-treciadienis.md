@@ -7,7 +7,7 @@ o taip pat ir naujokai ArtiomasP, JuliusP ir PauliusT.
 
 
 Gavom dovanų skalbenkę. Tai visi ją ardė ir ardydami džiaugėsi ;)
-[https://www.facebook.com/media/set/?set=a.515070781923401.1073741851.427720367325110&type=1](štai skerdynių nuotraukos)
+[štai skerdynių nuotraukos](https://www.facebook.com/media/set/?set=a.515070781923401.1073741851.427720367325110&type=1)
 
 Naujokams aprodėm ką turim ir ką veikiam. Visi rado kuo užsiimti,
 kas ausinių laidą litavo, kas knygas vartė, kas ruošėsi robotui kojas
