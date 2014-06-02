@@ -4,9 +4,6 @@
         hue,
         mainColour,
         logotype,
-        illustrations = {
-            heatedMouse: undefined
-        },
         initRubikus = function () {
             logotype = new Rubikus({
                 canvas: document.getElementById('logotype'),
@@ -40,21 +37,6 @@
                 sheet.insertRule(selector + "{" + rule + "}", index);
             } else {
                 sheet.addRule(selector, rule, index);
-            }
-        },
-
-        initSmouldering = function () {
-            if ( Smouldering ) {
-                illustrations.heatedMouse = new Smouldering({
-                    container: document.getElementById('illustration--heated-mouse'),
-                    colours: [
-                        'hsla(' + hue +',80%,50%, .8)',
-                        'hsla(' + (+hue + 20) +',80%,50%, .8)',
-                        'hsla(' + (+hue - 20) +',80%,50%, .8)',
-                    ]
-                });
-
-                document.getElementById('container').className = 'heated-mouse-workshop';
             }
         };
 
