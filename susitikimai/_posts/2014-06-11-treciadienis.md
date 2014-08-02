@@ -13,7 +13,7 @@ Antanas atsineše aliuminio strypą ir gamino bagažinės dangčio laikiklio
 antgalius.
 Rimantas suvyniojo filtrą žemų dažnių kolonėlei ir viską sureguliavo, kad
 gražiai skambėtų.
-Darius ieškojo kodel neveikia ratuotojo roboto H-tiltas ir paruošė CNC
+Darius ieškojo kodėl neveikia ratuotojo roboto H-tiltas ir paruošė CNC
 stakles darbui.
 
 
