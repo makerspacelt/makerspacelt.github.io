@@ -1,0 +1,24 @@
+{% include header.ext %}
+		<article>
+			<header class="layout--single-column">
+				<h1 id="logotype-seed" class="primary-color">{{ page.title }}</h1>
+				<h2>{{ page.subtitle }}</h2>
+			</header>
+			<section>
+				{{ content }}
+				{% if page.author %}
+				<p>Autorius: {{ page.author }}</p>
+				{% endif %}
+			</section>
+		</article>
+		{% if page.previous %}
+			<a class="control control--previous" href="{{ page.previous.url }}" title="{{ page.previous.title }}">
+				<span>‹</span>
+			</a>
+		{% endif %}
+		{% if page.next %}
+			<a class="control control--next" href="{{ page.next.url }}" title="{{ page.next.title }}">
+				<span>›</span>
+			</a>
+		{% endif %}
+{% include footer.ext %}

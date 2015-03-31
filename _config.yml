@@ -1,0 +1,4 @@
+collections:
+  projektai:
+    output: true
+    permalink: /projektas/:path/
