@@ -2,6 +2,8 @@
 layout: projektas
 title: Kodicionierius
 author: Darius Vozbutas
+order: 10
+heroImage: kondicionierius/hero.jpg
 ---
 Karštom vasaros dienom sunku rasti vietą kur galėtum atsigaivinti, o oro
 kondicionieriai labai brangūs. Taigi nusprendėm pasigaminti savo oro

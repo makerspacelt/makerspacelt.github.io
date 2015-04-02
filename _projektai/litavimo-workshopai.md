@@ -2,6 +2,9 @@
 layout: projektas
 title: Litavimo workshop’ai
 author: Darius Vozbutas, Aivaras Spaicys
+type: hero
+order: 5
+heroImage: litavimo-workshopai/hero.jpg
 ---
 Surengėm dvejas keturių valandų trukmės dirbtuves elektronikos naujokams. Per
 šias dirbtuves dalinom NTAduino rinkinius. Supažindinom dalyvius su

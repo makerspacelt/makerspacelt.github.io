@@ -1,6 +1,8 @@
 ---
 layout: projektas
 title: Velykinių/Kalėdinių dekoracijų workshop'ai
+order: 11
+heroImage: velykiniu-kalediniu-dekoraciju-workshopai/hero.jpg
 ---
 Pažinčiai su CNC frezavimo staklėm ir jų valdymu puikiai tinka šventinių
 dekoracijų gamyba. Susipažystama tiek su pačių staklių veikimu, ir valdymu,

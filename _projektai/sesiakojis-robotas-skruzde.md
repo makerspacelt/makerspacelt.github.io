@@ -2,6 +2,8 @@
 layout: projektas
 title: Šešiakojis robotas „Skruzdė“
 author: Paulius Lapienis
+order: 17
+heroImage: sesiakojis-robotas-skruzde/hero.jpg
 ---
 Šis robotas yra pirmasis mano projektas su arduino valdymo plokšte. Norėjau
 sukurti robotą, kuris galėtų vaikščioti nelygiais paviršiais. Robotas vis dar

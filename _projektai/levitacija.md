@@ -3,6 +3,9 @@ layout: projektas
 title: Levitacija
 subtitle: Ultra garso instaliacija
 author: Darius Vozbutas
+type: hero
+order: 2
+heroImage: levitacija/hero.jpg
 ---
 Šis prietaisas geba ore išlaikyti nedidelius, mažo tankio, objektus. Garso
 bangos (40KHz rezonansinis dažnis) sklinda į viršų, ten atsimuša nuo disko ir
