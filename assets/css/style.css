@@ -348,6 +348,7 @@ p {
   padding: 0 2em; }
   .projects--basic {
     -webkit-column-count: 2;
+    -moz-column-count: 2;
     column-count: 2; }
 
 /*# sourceMappingURL=style.css.map */
