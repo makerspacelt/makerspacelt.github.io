@@ -48,7 +48,7 @@
 })();
 
 function initializeGoogleMap () {
-    var coordinates = new google.maps.LatLng(54.904299, 23.958883),
+    var coordinates = new google.maps.LatLng(54.89698, 23.955222),
         mapOptions = {
             zoom: 15,
             center: coordinates,
