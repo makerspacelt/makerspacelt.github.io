@@ -148,8 +148,8 @@
                 }
 
                 ctx.fillStyle = '#fff';
-                ctx.font = 'bold ' + settings.canvas.offsetWidth / 2 + 'px jubilat';
-                ctx.fillText('M', Math.floor(width / 3.703703704), Math.floor(height / 1.547085202));
+                ctx.font = '900 ' + settings.canvas.offsetWidth / 2 + 'px "Source Sans Pro"';
+                ctx.fillText('M', Math.floor(width / 3.27), Math.floor(height / 1.547085202));
             },
 
             init = function (opts) {

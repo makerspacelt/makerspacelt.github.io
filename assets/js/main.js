@@ -38,13 +38,10 @@
             }
         };
 
-    try {
-        Typekit.load({
-            active: function () {
-                initRubikus();
-            }
-        });
-    } catch(e) {};
+    window.onload = function() {
+        initRubikus();
+    };
+
 })();
 
 function initializeGoogleMap () {

@@ -15,7 +15,7 @@
 
 	<link rel="stylesheet" href="/assets/css/style.css" title="main-stylesheet">
 
-	<script type="text/javascript" src="//use.typekit.net/wlw3axb.js"></script>
+	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:900" rel="stylesheet">
 </head>
 <body>
 	{% if page.path == 'index.html' %}
