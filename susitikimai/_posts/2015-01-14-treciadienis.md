@@ -6,6 +6,6 @@ Dalyvavo DariusK, DariusV ir VaidasT
 
 
 Vaidas dirbo prie lovos - tekino guoliavietes.
-DariusK ir DariusV toliau konstravo super laminatoriu PCB gamybai.
+DariusK ir DariusV toliau konstravo super laminatorių PCB gamybai.
 
 
