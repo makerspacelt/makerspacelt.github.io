@@ -15,45 +15,5 @@ menutitle: Susitikimai
 		susitikimui ir susipažinimui. Kavą ar arbatą pastatysim.
 	</p>
 
-	<p>O iki tol rodom kas vyko ankstesniuose susitikimuose. Imkit mane ir skaitykit:</p>
-
 </div>
 
-{% for post in site.categories.susitikimai %}
-
-	{% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
-	{% capture this_month %}{{ post.date | date: "%B" }}{% endcapture %}
-	{% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
-	{% capture next_month %}{{ post.previous.date | date: "%B" }}{% endcapture %}
-
-	{% if forloop.first %}
-		<h2 class="for-lists">{{ this_year }}</h2>
-		<div class="lists">
-		<ul class="list list--whitespace">
-	{% endif %}
-
-	<li><a href="{{ post.url }}">{{ post.title | remove: this_year | replace_first: ' ', '' | capitalize }}</a></li>
-
-	{% if forloop.last %}
-		</div>
-		</ul>
-	{% else %}
-
-		{% if this_year != next_year %}
-			</div>
-			</ul>
-			<h2 class="for-lists">{{ next_year }}</h2>
-			<div class="lists">
-			<ul class="list list--whitespace">
-		{% else %}
-
-			{% if this_month != next_month %}
-				</ul>
-				<ul class="list list--whitespace">
-			{% endif %}
-
-		{% endif %}
-
-	{% endif %}
-
-{% endfor %}
