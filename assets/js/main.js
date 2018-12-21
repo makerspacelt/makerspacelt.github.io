@@ -44,18 +44,3 @@
 
 })();
 
-function initializeGoogleMap () {
-    var coordinates = new google.maps.LatLng(54.89698, 23.955222),
-        mapOptions = {
-            zoom: 15,
-            center: coordinates,
-            mapTypeId: google.maps.MapTypeId.ROADMAP,
-            scrollwheel: false
-        },
-        map = new google.maps.Map(document.getElementById("google-map"), mapOptions),
-        marker = new google.maps.Marker({
-            position: coordinates,
-            map: map,
-            title: 'Kaunas Makerspace'
-        });
-}
