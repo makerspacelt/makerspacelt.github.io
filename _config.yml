@@ -2,3 +2,7 @@ collections:
   projektai:
     output: true
     permalink: /projektas/:path/
+sass:
+  sass_dir: assets/css
+  sourcemap: true
+
