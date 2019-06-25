@@ -24,6 +24,8 @@
 		<a href="/index.html"><canvas id="logotype" width="80">Makerspace.lt</canvas></a>
 	{% endif %}
 	<nav id="main-nav" class="nav layout--single-column">
+		<a href="/index.html">Apie mus</a>
+		<a href="http://makerspacelt.tumblr.com/">Blogas</a>
 		{% assign sorted_pages = site.pages | sort:"name" %}
 		{% for node in sorted_pages %}
 			{% if node.menutitle %}
