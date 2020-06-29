@@ -1,4 +1,5 @@
 <!doctype html>
+{% include relbase.html %}
 {% if page.path == 'index.html' %}
 {% assign pageClass = 'home' %}
 {% else %}
@@ -13,7 +14,7 @@
 	<meta name="description" content="Atviros dirbtuvės kūrėjams, haktyvistams, aktyvistams, konstruotojams, architektams, svajotojams ir kitiems produktyviai gyvenantiems veikėjams">
 	<meta name="keywords" content="hackerspace, hackspace, makerspace, makespace, kaunas makerspace, hakeris, hack, maker, open-access, peer-to-peer learning, maker-space, darytojai, kūrėjai, darykla, dirbtuvės, workshop, veikėjai, hackerlab, makerlab">
 
-	<link rel="stylesheet" href="/assets/css/style.css" title="main-stylesheet">
+	<link rel="stylesheet" href="{{relbase}}/assets/css/style.css" title="main-stylesheet">
 
 	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:900" rel="stylesheet">
 </head>
