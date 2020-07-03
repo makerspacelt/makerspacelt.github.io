@@ -99,7 +99,7 @@ a:hover { border-color: transparent; }
 
 .layout--header { padding: 0 0 1em; }
 
-.layout--single-column { margin: 0 auto; width: 700px; }
+.layout--single-column { margin: 0 auto; max-width: 50em; }
 
 .layout--center { text-align: center; }
 
@@ -121,6 +121,8 @@ p { margin: 0 0 0.75em; }
 
 .control--next { right: 0; }
 
+.smaller { font-size: 70%; }
+
 .lists { -webkit-column-count: 2; -moz-column-count: 2; column-count: 2; margin: 0 2em; vertical-align: top; }
 .lists > .list:first-child { margin-top: 2px; }
 .lists > .list:first-child > li:first-child { margin-top: 0; }
@@ -129,6 +131,11 @@ p { margin: 0 0 0.75em; }
 
 .list--whitespace { font-size: 24px; padding: 0; }
 .list--whitespace > li { list-style: none; margin: 0.5em 0; }
+
+.flex-box { display: flex; }
+.flex-box-col-33 { margin: .5rem; width: 33.3333%; border: 1px solid black; border-radius: 3px; }
+.flex-box-col-title { padding: 1rem; font-weight: 700; }
+.flex-box-col-content { padding: 1rem; font-size: 1rem; }
 
 .project { background: #fff; border-radius: 3px; margin: 0 0 2em; overflow: hidden; position: relative; }
 .project__hero-image { background-position: center; background-size: cover; position: absolute; top: 0; left: 0; bottom: 0; width: 33.333%; }
@@ -139,3 +146,6 @@ p { margin: 0 0 0.75em; }
 
 .projects { margin: 0 auto; max-width: 1440px; padding: 0 2em; }
 .projects--basic { -webkit-column-count: 2; -moz-column-count: 2; column-count: 2; }
+
+
+.page-tvarka ol, .page-tvarka ul { padding-left: 1.2em; }
