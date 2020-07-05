@@ -20,6 +20,10 @@ h3 {
 	margin-top: 2em;
 }
 
+h2:first-child {
+	margin-top: 0;
+}
+
 article > h1 { text-align: center; }
 
 p {
