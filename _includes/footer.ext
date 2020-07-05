@@ -1,3 +1,5 @@
+	{% include relbase.html %}
+
 	</div><!-- #container -->
 
 	{% if page.preload-module %}
@@ -6,9 +8,9 @@
 		<script type="text/javascript" src="{{ script }}"></script>
 		{% endfor %}
 	{% endif %}
-	<script src="/assets/js/sha256.js"></script>
-	<script src="/assets/js/rubikus.js"></script>
-	<script src="/assets/js/main.js"></script>
+	<script src="{{relbase}}/assets/js/sha256.js"></script>
+	<script src="{{relbase}}/assets/js/rubikus.js"></script>
+	<script src="{{relbase}}/assets/js/main.js"></script>
 	{% if page.additional-script %}
 		{% assign scripts = page.additional-script | split: "|" %}
 		{% for script in scripts %}

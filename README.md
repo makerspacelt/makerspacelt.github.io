@@ -18,9 +18,6 @@ patobulinti svetainę.
 [Issues](https://github.com/makerspacelt/makerspacelt.github.io/issues)
 yra puiki vieta visoms pastaboms ir siūlymams.
 
-Apkalbėti reikalus galima ir IRC kanale #kaunas-makerspace, esančiame
-freenode.net serveriuose.
-
 ### Moki rašyti?
 
 Parašyk mums tekstų. Papasakok, kas tau yra makerspace. Paaiškink kuo tokios

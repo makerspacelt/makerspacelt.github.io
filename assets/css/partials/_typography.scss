@@ -15,7 +15,8 @@ h1 {
 	}
 }
 
-h2 {
+h2,
+h3 {
 	margin-top: 2em;
 }
 
@@ -24,3 +25,10 @@ article > h1 { text-align: center; }
 p {
 	margin: 0 0 0.75em;
 }
+
+// Less left-padding for lists.
+ul, ol {
+	padding-left: 1.2em;
+}
+
+.smaller { font-size: 70%; }
