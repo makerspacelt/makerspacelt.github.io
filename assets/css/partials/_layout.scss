@@ -1,7 +1,8 @@
 #logotype {
-	left: 2em;
-	position: absolute;
-	top: 0.75em;
+	float: left;
+	margin-top: 0.75em;
+	margin-left: 1em;
+	margin-right: 1em;
 }
 
 .nav {
@@ -9,17 +10,15 @@
 }
 
 #main-nav {
-	padding: 1.5em 0;
-	position: relative;
-	left: -1em;
 }
 
 #container {
 	margin: 0 0 5em;
+	padding: 0 2em;
 
 	> article {
 		> section {
-			width: 700px;
+			max-width: 50em;
 			@include sides-margin(auto);
 		}
 	}
@@ -38,9 +37,33 @@
 
 .layout--single-column {
 	margin: 0 auto;
-	max-width: 45em;
+	max-width: 50em;
 }
 
 .layout--center {
 	text-align: center;
+}
+
+.flex-box {
+	display: flex;
+	flex-direction: column;
+	@include breakpoint($bp4) {
+		flex-direction: row;
+	}
+}
+.flex-box-col-33 {
+	margin: .5rem;
+	border: 1px solid black;
+	border-radius: 3px;
+	@include breakpoint($bp4) {
+		width: 33.3333%;
+	}
+}
+.flex-box-col-title {
+	padding: 1rem;
+	font-weight: 700;
+}
+.flex-box-col-content {
+	padding: 1rem;
+	font-size: 1rem;
 }
