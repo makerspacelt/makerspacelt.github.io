@@ -47,7 +47,7 @@
 .flex-box {
 	display: flex;
 	flex-direction: column;
-	@include breakpoint($bp4) {
+	@include breakpoint($bp5) {
 		flex-direction: row;
 	}
 }
@@ -55,7 +55,7 @@
 	margin: .5rem;
 	border: 1px solid black;
 	border-radius: 3px;
-	@include breakpoint($bp4) {
+	@include breakpoint($bp5) {
 		width: 33.3333%;
 	}
 }
