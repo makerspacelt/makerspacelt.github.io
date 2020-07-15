@@ -1,0 +1,22 @@
+{% include relbase.html %}
+<link rel="stylesheet" href="{{relbase}}/assets/css/viewer.min.css" title="main-stylesheet">
+<script src="{{relbase}}/assets/js/viewer.min.js"></script>
+<script>
+  Viewer.setDefaults({
+    url(image) {
+      return image.src.replace('thumbs/', '')
+    },
+    loading: false,
+    title: false,
+    transition: false,
+    toolbar: {
+      prev: {show: true, size: 'large'},
+      next: {show: true, size: 'large'},
+    },
+    movable: false,
+    rotatable: false,
+    navbar: false,
+    zoomOnTouch: false,
+    slideOnTouch: true,
+  })
+</script>
