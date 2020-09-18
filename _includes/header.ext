@@ -25,17 +25,12 @@
 		<a href="/index.html"><canvas id="logotype" width="80">Makerspace.lt</canvas></a>
 	{% endif %}
 	<nav id="main-nav" class="nav layout--single-column">
-		<a href="/index.html">Apie mus</a>
+		<a href="/index">Apie mus</a>
 		<a href="http://makerspacelt.tumblr.com/">Blogas</a>
-		{% assign sorted_pages = site.pages | sort:"name" %}
-		{% for node in sorted_pages %}
-			{% if node.menutitle %}
-				{% if page.url == node.url %}
-					<a class="active">{{ node.menutitle }}</a>
-				{% else %}
-					<a href="{{ node.url }}">{{ node.menutitle }}</a>
-				{% endif %}
-			{% endif %}
-		{% endfor %}
+		<a href="/projektai">Projektai</a>
+		<a href="/tvarka">Tvarka</a>
+		<a href="/archyvas">Archyvas</a>
+		<a href="/parama">Parama</a>
+		<a href="/kontaktai">Kontaktai</a>
 	</nav>
 	<div id="container">
