@@ -1,0 +1,21 @@
+{% assign layoutClass = 'layout-iframe-with-menu' %}
+{% include header.ext %}
+{{ content }}
+{% include footer.ext %}
+
+<style>
+	.layout-iframe-with-menu {
+		height: 100%;
+	}
+	.layout-iframe-with-menu body {
+		height: 100%;
+		display: flex;
+		flex-direction: column;
+	}
+	.layout-iframe-with-menu #container {
+		display: flex;
+		flex: 1 1 auto;
+		margin: 0;
+		padding: 0;
+	}
+</style>
