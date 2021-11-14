@@ -3,4 +3,3 @@ vendor/
 .bundle/
 Gemfile.lock
 *.sass-cache*
-*.bat
