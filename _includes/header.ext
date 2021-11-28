@@ -22,7 +22,6 @@
 			<a href="{{relbase}}/projektai">Projektai</a>
 			<a href="{{relbase}}/renginiai">Renginiai</a>
 			<a href="{{relbase}}/tvarka">Tvarka</a>
-			<a href="{{relbase}}/archyvas">Archyvas</a>
 			<a href="{{relbase}}/parama">Parama</a>
 			<a href="{{relbase}}/kontaktai">Kontaktai</a>
 		</nav>
