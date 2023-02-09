@@ -1,6 +1,6 @@
 ---
 layout: projektas
-title: Kodicionierius
+title: Kondicionierius
 author: Darius Vozbutas
 order: 10
 heroImage: kondicionierius/hero.jpg

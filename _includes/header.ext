@@ -1,5 +1,4 @@
 <!doctype html>
-{% include relbase.html %}
 <html id="page-{{page.name|split: '.'|first|slugify}}" class="{{layoutClass}}">
 <head>
 	<title>{% if page.menutitle %} {{ page.menutitle }} – {% endif %} Makerspace.lt</title>
@@ -9,21 +8,21 @@
 	<meta name="description" content="Atviros dirbtuvės kūrėjams, haktyvistams, aktyvistams, konstruotojams, architektams, svajotojams ir kitiems produktyviai gyvenantiems veikėjams">
 	<meta name="keywords" content="hackerspace, hackspace, makerspace, makespace, kaunas makerspace, hakeris, hack, maker, open-access, peer-to-peer learning, maker-space, darytojai, kūrėjai, darykla, dirbtuvės, workshop, veikėjai, hackerlab, makerlab">
 
-	<link rel="stylesheet" href="{{relbase}}/assets/css/style.css" title="main-stylesheet">
+	<link rel="stylesheet" href="{{site.baseurl}}/assets/css/style.css" title="main-stylesheet">
 
 	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:900" rel="stylesheet">
 </head>
 <body>
 	<div id="navbar">
-		<a id="logotype-link" href="/index.html"><canvas id="logotype" width="80" height="92">Makerspace.lt</canvas></a>
+		<a id="logotype-link" href="{{site.baseurl}}/"><canvas id="logotype" width="80" height="92">Makerspace.lt</canvas></a>
 		<nav id="main-nav" class="nav layout--single-column">
-			<a href="{{relbase}}/index">Apie mus</a>
-			<a href="{{relbase}}/blogas">Blogas</a>
-			<a href="{{relbase}}/projektai">Projektai</a>
-			<a href="{{relbase}}/renginiai">Renginiai</a>
-			<a href="{{relbase}}/tvarka">Tvarka</a>
-			<a href="{{relbase}}/parama">Parama</a>
-			<a href="{{relbase}}/kontaktai">Kontaktai</a>
+			<a href="{{site.baseurl}}/index">Apie mus</a>
+			<a href="{{site.baseurl}}/blogas">Blogas</a>
+			<a href="{{site.baseurl}}/projektai">Projektai</a>
+			<a href="{{site.baseurl}}/renginiai">Renginiai</a>
+			<a href="{{site.baseurl}}/tvarka">Tvarka</a>
+			<a href="{{site.baseurl}}/parama">Parama</a>
+			<a href="{{site.baseurl}}/kontaktai">Kontaktai</a>
 		</nav>
 	</div>
 	<div id="container">
