@@ -1,0 +1,98 @@
+---
+layout: default
+title: Periodinė parama - Liberapay
+---
+
+<div class="layout--single-column">
+  <div style="float: right; margin-left: 1rem;">
+    <script src="https://liberapay.com/makerspacelt/widgets/receiving.js"></script>
+  </div>
+  
+  <p>
+    Periodinei paramai naudojame Liberapay platformą.
+    Galima paremti kortele arba tiesioginiu debetu.
+    Norint paremti tereikia užsiregistruoti ir nustatyti paramos dydį.
+    <br>
+    Kadangi platforma angliška ir yra keletas painesnių žingsnių,
+    rekomenduojame sekti instrukciją žemiau.
+  </p>
+
+  <div style="clear: both;"></div>
+  
+  <ol>
+    <li>
+      Užsiregistruok Liberapay platformoje:
+      <strong>
+        <a target="_blank" href="https://liberapay.com/sign-up">https://liberapay.com/sign-up</a>
+      </strong>
+      <img src="{{relbase}}/assets/img/parama/liberapay-signup.png">
+      <br>
+      Čia gali įvesti savo vardą (be vardo nematysime kas teikia paramą ir negalėsime padėti, jei kils klausimų):
+      <br>
+      <img src="{{relbase}}/assets/img/parama/liberapay-username.png">
+    <li>
+      Atsidaryk savo pašto programą ir patvirtink registraciją:
+      <br>
+      <img src="{{relbase}}/assets/img/parama/liberapay-email-confirm.png">
+      <br>
+      <img src="{{relbase}}/assets/img/parama/liberapay-email-confirmed.png">
+    <li>
+      Atidaryk mūsų Liberapay puslapį:
+      <strong><a target="_blank" href="https://liberapay.com/makerspacelt/donate">https://liberapay.com/makerspacelt/donate</a></strong>
+    <li>
+      Pasirink kaip pažymėta, nurodyk savo norimą sumą ir spausk Donate:
+      <br>
+      <img src="{{relbase}}/assets/img/parama/liberapay-donation.png">
+    <li>
+      Pasirink ar paremsi kortele, ar tiesioginiu debetu iš savo banko:
+      <br>
+      <img src="{{relbase}}/assets/img/parama/liberapay-payment-method.png">
+    <li>
+      Pasirink pavedimo dydį, įvesk mokėjimo duomenis (pavyzdyje buvo
+      pasirinkta paremti kortele). Ekrano nuotraukoje pasirinktas vienas
+      pervedimas per mėnesį. Gali rinktis retesnius pavedimus didesne suma -
+      tuomet mūsų platformos mokesčiais bus šiek tiek mažesni (numatome, kad
+      viso sumokėsime apie 2% mokesčių nuo tavo paramos).
+      <br>
+      <img src="{{relbase}}/assets/img/parama/liberapay-payment-size.png">
+    <li>
+      <p>
+      Ačiū!
+      <br>
+      Parama tęsis, kol galios mokėjimo priemonė arba kol paramos neatšauksi toje
+      pačioje platformoje. Taip pat aplankęs šią nuorodą bet kada galėsi
+      pakeisti paramos dydį ar ją sustabdyti: 
+      <strong><a target="_blank" href="https://liberapay.com/makerspacelt/donate">https://liberapay.com/makerspacelt/donate</a></strong>
+      </p>
+      <p>
+        Jeigu kyla klausimų, kreipkis
+        <strong><a target="_blank" href="{{relbase}}/kontaktai">https://makerspace.lt/kontaktai</a></strong>
+      <p>
+      <p>
+        Svarbu nepamiršti kokį el.  paštą nurodei registruodamasis!
+      </p>
+  </ol>
+
+</div>
+
+{% include imgviewer.html %}
+<script>
+  document.querySelectorAll('img').forEach(function(el) {
+    new Viewer(el)
+  })
+</script>
+
+<style>
+  ol > li {
+    margin-bottom: 1em;
+  }
+  ol img {
+    max-width: 600px;
+    margin: 1rem;
+    border: 2px solid #666;
+    vertical-align: top;
+  }
+  ol img:hover {
+    cursor: pointer;
+  }
+</style>
