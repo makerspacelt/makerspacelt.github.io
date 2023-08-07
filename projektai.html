@@ -5,7 +5,7 @@ menutitle: Projektai
 ---
 
 <div class="projects">
-{% assign heroes = (site.projektai | where: "type", "hero") | sort: "order" %}
+{% assign heroes = site.projektai | where: "type", "hero" | sort: "order" %}
 {% for project in heroes %}
 
 	<article class="project project--hero">
@@ -29,7 +29,7 @@ menutitle: Projektai
 </div>
 
 <div class="projects projects--basic">
-{% assign projects = (site.projektai | sort: "order" %}
+{% assign projects = site.projektai | sort: "order" %}
 {% for project in projects %}
 	{% if project.type != "hero" %}
 
