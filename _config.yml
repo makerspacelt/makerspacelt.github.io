@@ -4,5 +4,5 @@ collections:
     permalink: /projektas/:path/
 sass:
   sass_dir: assets/css
-  sourcemap: true
+  sourcemap: development
 
