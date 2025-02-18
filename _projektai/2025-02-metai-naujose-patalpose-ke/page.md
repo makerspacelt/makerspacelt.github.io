@@ -14,7 +14,21 @@ atrodė prieš pradedant darbus ir kaip atrodo dabar, praėjus metams.
 
 <!--more-->
 
-Nuotraukų autorius: Renardas Gruodis
+Pirmiausia kviečiame pažiūrėti video kompiliaciją iš statybų etapo ir
+prisiminti, o galbūt pamatyti praleistus epizodus, kaip mums sekėsi paruošti
+dabartines patalpas:
+<iframe src="https://www.youtube-nocookie.com/embed/0UNG4EzirxU?si=pklLbYeGCa4IXSEt&amp;start=0" title="YouTube video player" frameborder="0" allow="autoplay; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width: 100%; height: 400px;"></iframe>
+
+Žemiau yra nuotraukų palyginimai prieš ir po. Kairėje pusėje nuotraukos darytos
+prieš pat statybų pradžią (t.y. vos pusvalandžiui iki pirmą kart užsimojant
+plaktuku), o dešinėje - darytos 2025 vasarį (paspauskite ant nuotraukos
+norėdami padidinti).
+
+Makerspace nebūtų be bendruomenės - visų mūsų kurie prisidėjo ir prisideda,
+statybose, finansiškai ar dovanodami puikius įrankius - ir tik visų mūsų dėka
+pasiekėme tokio nerealaus rezultato!
+
+Nuotraukų ir video autorius: Renardas Gruodis
 
 <div class="images">
     <h3>Koridorius</h3>
