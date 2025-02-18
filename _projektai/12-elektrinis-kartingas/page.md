@@ -1,10 +1,9 @@
 ---
 layout: projektas
+permalink: projektas/elektrinis-kartingas
+hero: true
 title: Elektrinis kartingas
 author: Darius Vozbutas, Antanas Urnikis
-type: hero
-order: 6
-heroImage: elektrinis-kartingas/hero.jpg
 ---
 Jau seniai pasaulyje, o taip pat ir Lietuvoje,  siautėja šonaslydžio (drift)
 virusas. Šis virusas neaplenkė ir Makerspace dalyvių, tik kiek kitokiu pavidalu,

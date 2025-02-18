@@ -1,9 +1,9 @@
 ---
 layout: projektas
+permalink: projektas/garso-kolonele
+hero: true
 title: Garso kolonėlė
 author: Rimantas Vidrinskas
-order: 13
-heroImage: garso-kolonele/hero.jpg
 ---
 Nestandartinė garso kolonėlė su profesionaliais garsiakalbiais. Keliami
 tikslai: maksimali kokybė, didelis jautrumas ir galia, kiek įmanoma

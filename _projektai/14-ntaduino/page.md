@@ -1,10 +1,9 @@
 ---
 layout: projektas
+permalink: projektas/ntaduino
+hero: true
 title: NTAduino
 author: Darius Vozbutas, Aivaras Spaicys
-type: hero
-order: 4
-heroImage: ntaduino/hero.jpg
 ---
 NTAduino – tai elektronikos rinkinys su programuojamu mikrovaldikliu, skirtas
 žmonėms, pradedantiems pažintį su elektronika. Komponentai parinkti tokie,

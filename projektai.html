@@ -1,57 +1,27 @@
 ---
 layout: default
-title: Projektų sąrašas
+title: Projektai
 menutitle: Projektai
 ---
-
 <div class="projects">
-{% assign heroes = site.projektai | where: "type", "hero" | sort: "order" %}
-{% for project in heroes %}
-
-	<article class="project project--hero">
-		<div class="project__hero-image"
-			{% if project.heroImage %}
-			style="background-image: url('{{ site.url }}/assets/img/projektai/{{ project.heroImage }}');"
-			{% endif %}
-			>
-		</div>
-		<div class="project__container">
-			<h3 class="project__title">
-				<a href="{{site.baseurl}}{{ project.url }}">{{ project.title }}</a>
-			</h3>
-			<div class="project__body">
-				{{ project.content }}
-			</div>
-		</div>
-	</article>
-
-{% endfor %}
-</div>
-
-<div class="projects projects--basic">
-{% assign projects = site.projektai | sort: "order" %}
+{% assign projects = site.projektai | reverse %}
 {% for project in projects %}
-	{% if project.type != "hero" %}
-
-		<article class="project project--basic">
-			<div class="project__hero-image"
-				{% if project.heroImage %}
-				style="background-image: url('{{ site.url }}/assets/img/projektai/{{ project.heroImage }}');"
-				{% endif %}
-				>
-			</div>
-			<div class="project__container">
-				<h3 class="project__title">
-					<a href="{{site.baseurl}}{{ project.url }}">{{ project.title }}</a>
-				</h3>
-				<div class="project__body">
-					{{ project.content }}
-				</div>
-			</div>
-		</article>
-
-	{% endif %}
+  <article class="project project--hero">
+    <div class="project__hero-image"
+      {% if project.hero %}
+	{% assign hero_src = project.path | remove_first: "_projektai/" | remove_first: "/page.md" | prepend: "/projektas/" | append: "/images/hero.jpg" %}
+	 style="background-image: url('{{hero_src}}');"
+      {% endif %}
+    >
+    </div>
+    <div class="project__container">
+      <h3 class="project__title">
+	<a href="{{site.baseurl}}{{ project.url }}">{{ project.title }}</a>
+      </h3>
+      <div class="project__body">
+	{{ project.excerpt }}
+      </div>
+    </div>
+  </article>
 {% endfor %}
 </div>
-
-
