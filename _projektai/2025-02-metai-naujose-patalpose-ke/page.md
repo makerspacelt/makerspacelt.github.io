@@ -3,6 +3,7 @@ layout: projektas
 permalink: projektas/2025-02-metai-naujose-patalpose-ke
 title: Metai naujose patalpose
 hero: true
+no_hero_in_page: true
 excerpt_separator: "<!--more-->"
 ---
 2024 vasario 23 gavome raktus į naujas patalpas „Kauno Energijos“ rūsyje ir
@@ -12,6 +13,8 @@ Nulieję daug prakaito ir kraujo pristatome keletą nuotraukų kaip patalpos
 atrodė prieš pradedant darbus ir kaip atrodo dabar, praėjus metams.
 
 <!--more-->
+
+Nuotraukų autorius: Renardas Gruodis
 
 <div class="images">
     <h3>Koridorius</h3>

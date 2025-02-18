@@ -8,8 +8,10 @@
   </header>
   <div class="layout--single-column">
     {% if page.hero %}
-      {% assign hero_src = page.path | remove_first: "_projektai/" | remove_first: "/page.md" | prepend: "/projektas/" | append: "/images/hero.jpg" %}
-      <img src="{{hero_src}}">
+      {% unless page.no_hero_in_page %}
+        {% assign hero_src = page.path | remove_first: "_projektai/" | remove_first: "/page.md" | prepend: "/projektas/" | append: "/images/hero.jpg" %}
+        <img src="{{hero_src}}">
+      {% endunless %}
     {% endif %}
     {{ content }}
     {% if page.author %}

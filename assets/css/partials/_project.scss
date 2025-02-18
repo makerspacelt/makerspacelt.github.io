@@ -1,49 +1,35 @@
-.project {
-	background: #fff;
-	border-radius: 3px;
-	margin: 0 0 2em;
-	overflow: hidden;
-	position: relative;
-
-	&__hero-image {
-		background-position: center;
-		background-size: cover;
-		position: absolute;
-		top: 0;
-		left: 0;
-		bottom: 0;
-		width: 33.333%;
-	}
-
-	&__container {
-		padding: 2em;
-		margin-left: 33.333%;
-	}
-
-	&--basic {
-		display: inline-block;
-		margin: 0 0 2em;
-	}
-
-	&--basic &__hero-image {
-		height: 250px;
-		position: static;
-		width: 100%;
-	}
-
-	&--basic &__container {
-		margin-left: 0;
-	}
-}
-
 .projects {
-	margin: 0 auto;
-	max-width: 1440px;
-	padding: 0 2em;
-
-	&--basic {
-		-webkit-column-count: 2;
-		-moz-column-count: 2;
-		column-count: 2;
-	}
+  margin: 0 auto;
+  max-width: 1440px;
 }
+
+.project {
+  display: flex;
+  flex-direction: column-reverse;
+  @include breakpoint($bp5) {
+    flex-direction: row;
+  }
+  background: #fff;
+  border-radius: 3px;
+  margin: 0 0 2em;
+  overflow: hidden;
+}
+
+.project-hero-image {
+  flex-grow: 1;
+  flex-shrink: 0;
+  align-content: center;
+  align-self: center;
+  @include breakpoint($bp5) {
+    max-width: 33%;
+  }
+}
+
+.project-title {
+  margin-top: 0;
+}
+
+.project-container {
+  padding: 2em;
+}
+

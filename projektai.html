@@ -6,19 +6,18 @@ menutitle: Projektai
 <div class="projects">
 {% assign projects = site.projektai | reverse %}
 {% for project in projects %}
-  <article class="project project--hero">
-    <div class="project__hero-image"
-      {% if project.hero %}
+  <article class="project">
+    {% if project.hero %}
+      <div class="project-hero-image">
 	{% assign hero_src = project.path | remove_first: "_projektai/" | remove_first: "/page.md" | prepend: "/projektas/" | append: "/images/hero.jpg" %}
-	 style="background-image: url('{{hero_src}}');"
-      {% endif %}
-    >
-    </div>
-    <div class="project__container">
-      <h3 class="project__title">
+	<img src="{{hero_src}}">
+      </div>
+    {% endif %}
+    <div class="project-container">
+      <h3 class="project-title">
 	<a href="{{site.baseurl}}{{ project.url }}">{{ project.title }}</a>
       </h3>
-      <div class="project__body">
+      <div class="project-body">
 	{{ project.excerpt }}
       </div>
     </div>
