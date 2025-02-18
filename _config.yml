@@ -2,7 +2,7 @@ collections:
   projektai:
     output: true
     permalink: /projektas/:path/
+    page_excerpts: true
 sass:
   sass_dir: assets/css
   sourcemap: development
-
