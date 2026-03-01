@@ -40,7 +40,7 @@ _būtinas_ norint redaguoti stilius.
 
 Jei naudoji docker, lokalią svetainės versiją pasileisti labai paprasta:
 
-    docker run --rm -it -p 4000:4000 -v $PWD:/srv/jekyll jekyll/jekyll:3.8 jekyll serve
+    docker run --rm -it -p 4000:4000 -v $PWD:/srv/jekyll jekyll/jekyll:4 jekyll serve
 
 Įvykdžius šią komandą po kiek laiko turėtum pamatyti `Server address:
 http://0.0.0.0:4000`, tada naršyklėje atidaryk http://localhost:4000 ir
