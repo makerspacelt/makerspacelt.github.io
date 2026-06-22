@@ -1,0 +1,46 @@
+# 
+# Build website to public/ and deploy it to github pages
+#
+
+name: Deploy Static Website to Github Pages
+
+on:
+  push:  # Runs on pushes targeting the default branch
+    branches: ["main"]
+
+  workflow_dispatch:  # Allows you to run this workflow manually from the Actions tab
+
+concurrency:  # Allow only one concurrent deployment
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7   # https://github.com/marketplace/actions/checkout
+      - uses: actions/cache@v5      # https://github.com/marketplace/actions/cache
+        with:
+          path: cache
+          key: cached-page-build
+      - uses: oven-sh/setup-bun@v2  # https://github.com/oven-sh/setup-bun
+        with:
+          bun-version: latest
+      - run: |
+          bun scripts/build.js
+      - uses: actions/upload-pages-artifact@v5  # https://github.com/marketplace/actions/upload-github-pages-artifact
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    permissions:       # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
+      pages: write     # to deploy to Pages
+      id-token: write  # to verify the deployment originates from an appropriate source
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v5  # https://github.com/actions/deploy-pages

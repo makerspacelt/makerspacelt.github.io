@@ -1,0 +1,41 @@
+#
+# Automatically create wiki sync pull request if a branch called sync/* is pushed
+#
+
+name: Auto Create Sync PR
+
+on:
+  push:
+    branches:
+      - 'sync/**'
+
+jobs:
+  create-pr:
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+      contents: read
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7
+
+      - name: Create Pull Request
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Extract the branch name from the GitHub ref
+          BRANCH_NAME="${GITHUB_REF#refs/heads/}"
+
+          # Check if a PR already exists for this branch to avoid duplicate errors
+          EXISTING_PR=$(gh pr list --head "$BRANCH_NAME" --json number --jq '.[0].number')
+
+          if ! [ "$EXISTING_PR" ]; then
+            echo "Creating pull request for $BRANCH_NAME..."
+            gh pr create \
+              --head "$BRANCH_NAME" \
+              --base main \
+              --title "Auto $BRANCH_NAME" \
+              --body "This is an automated pull request triggered by a push to the $BRANCH_NAME branch."
+          else
+            echo "Pull request already exists (#$EXISTING_PR). Skipping creation."
+          fi

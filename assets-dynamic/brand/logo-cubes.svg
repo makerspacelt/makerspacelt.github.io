@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="81" height="78" version="1.1" viewBox="0 0 81 78" id="svg123" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+  <g transform="matrix(2.0237,0,0,2.0237,-223.32401,-345.84196)" stroke="#000000" id="g110">
+    <g transform="translate(-29.882,45.005)" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="2" stroke-width="0.013074" id="cubes">
+      <g transform="translate(12.899,1.1028)" id="g8">
+        <path d="m 136.1,142.74 v 5.1273 l 4.4398,-2.5636 v -5.1273 z" fill="#df651e" style="paint-order:stroke fill markers" id="path1" />
+        <g fill="#dfa61f" id="g4">
+          <path d="m 140.54,140.18 4.4398,2.5637 v 5.1273 l -4.4398,-2.5636 z" style="paint-order:stroke fill markers" id="path2" />
+          <path d="m 140.54,150.43 -4.4398,-2.5637 4.4398,-2.5636 4.4398,2.5637 z" style="paint-order:stroke fill markers" id="path3" />
+          <path d="m 140.54,145.31 v 5.1273 l 4.4398,-2.5636 v -5.1273 z" style="paint-order:stroke fill markers" id="path4" />
+        </g>
+        <g fill="#df251e" id="g7">
+          <path d="m 140.54,145.31 -4.4398,-2.5637 4.4398,-2.5636 4.4398,2.5637 z" style="paint-order:stroke fill markers" id="path5" />
+          <path d="m 136.1,142.74 4.4398,2.5637 v 5.1273 L 136.1,147.8674 Z" style="paint-order:stroke fill markers" id="path6" />
+          <path d="m 136.1,142.74 4.4398,2.5637 v 5.1273 L 136.1,147.8674 Z" style="paint-order:stroke fill markers" id="path7" />
+        </g>
+      </g>
+      <g transform="translate(8.4594,-1.4609)" id="g15">
+        <path d="m 136.1,142.74 v 5.1273 l 4.4398,-2.5636 v -5.1273 z" fill="#df651e" style="paint-order:stroke fill markers" id="path8" />
+        <g fill="#dfa61f" id="g11">
+          <path d="m 140.54,140.18 4.4398,2.5637 v 5.1273 l -4.4398,-2.5636 z" style="paint-order:stroke fill markers" id="path9" />
+          <path d="m 140.54,150.43 -4.4398,-2.5637 4.4398,-2.5636 4.4398,2.5637 z" style="paint-order:stroke fill markers" id="path10" />
+          <path d="m 140.54,145.31 v 5.1273 l 4.4398,-2.5636 v -5.1273 z" style="paint-order:stroke fill markers" id="path11" />
+        </g>
+        <g fill="#df251e" id="g14">
+          <path d="m 140.54,145.31 -4.4398,-2.5637 4.4398,-2.5636 4.4398,2.5637 z" style="paint-order:stroke fill markers" id="path12" />
+          <path d="m 136.1,142.74 4.4398,2.5637 v 5.1273 L 136.1,147.8674 Z" style="paint-order:stroke fill markers" id="path13" />
+          <path d="m 136.1,142.74 4.4398,2.5637 v 5.1273 L 136.1,147.8674 Z" style="paint-order:stroke fill markers" id="path14" />
+        </g>
+      </g>
+      <g transform="translate(8.4594,-6.5882)" id="g21">
+        <path d="m 136.1,142.74 v 5.1273 l 4.4398,-2.5636 v -5.1273 z" fill="#df651e" style="paint-order:stroke fill markers" id="path15" />
+        <path d="m 140.54,140.18 4.4398,2.5637 v 5.1273 l -4.4398,-2.5636 z" fill="#dfa61f" style="paint-order:stroke fill markers" id="path16" />
+        <path d="m 140.54,150.43 -4.4398,-2.5637 4.4398,-2.5636 4.4398,2.5637 z" fill="#dfa61f" style="paint-order:stroke fill markers" id="path17" />
+        <g fill="#df651e" id="g20">
+          <path d="m 140.54,145.31 v 5.1273 l 4.4398,-2.5636 v -5.1273 z" style="paint-order:stroke fill markers" id="path18" />
+          <path d="m 140.54,145.31 -4.4398,-2.5637 4.4398,-2.5636 4.4398,2.5637 z" style="paint-order:stroke fill markers" id="path19" />
+          <path d="m 136.1,142.74 4.4398,2.5637 v 5.1273 L 136.1,147.8674 Z" style="paint-order:stroke fill markers" id="path20" />
+        </g>
+      </g>
+      <g transform="translate(17.339,8.7937)" id="g26">
+        <path d="m 136.1,142.74 v 5.1273 l 4.4398,-2.5636 v -5.1273 z" fill="#df651e" style="paint-order:stroke fill markers" id="path21" />
+        <g fill="#dfa61f" id="g24">
+          <path d="m 140.54,140.18 4.4398,2.5637 v 5.1273 l -4.4398,-2.5636 z" style="paint-order:stroke fill markers" id="path22" />
+          <path d="m 140.54,150.43 -4.4398,-2.5637 4.4398,-2.5636 4.4398,2.5637 z" style="paint-order:stroke fill markers" id="path23" />
+          <path d="m 140.54,145.31 v 5.1273 l 4.4398,-2.5636 v -5.1273 z" style="paint-order:stroke fill markers" id="path24" />
+        </g>
+        <path d="m 140.54,145.31 -4.4398,-2.5637 4.4398,-2.5636 4.4398,2.5637 z" fill="#df651e" style="paint-order:stroke fill markers" id="path25" />
+        <path d="m 136.1,142.74 4.4398,2.5637 v 5.1273 L 136.1,147.8674 Z" fill="#df651e" style="paint-order:stroke fill markers" id="path26" />
+      </g>
+      <g transform="translate(12.899,11.357)" id="g32">
+        <path d="m 136.1,142.74 v 5.1273 l 4.4398,-2.5636 v -5.1273 z" fill="#df651e" style="paint-order:stroke fill markers" id="path27" />
+        <path d="m 140.54,140.18 4.4398,2.5637 v 5.1273 l -4.4398,-2.5636 z" fill="#dfa61f" style="paint-order:stroke fill markers" id="path28" />
+        <path d="m 140.54,150.43 -4.4398,-2.5637 4.4398,-2.5636 4.4398,2.5637 z" fill="#dfa61f" style="paint-order:stroke fill markers" id="path29" />
+        <path d="m 140.54,145.31 v 5.1273 l 4.4398,-2.5636 v -5.1273 z" fill="#df651e" style="paint-order:stroke fill markers" id="path30" />
+        <path d="m 140.54,145.31 -4.4398,-2.5637 4.4398,-2.5636 4.4398,2.5637 z" fill="#df251e" style="paint-order:stroke fill markers" id="path31" />
+        <path d="m 136.1,142.74 4.4398,2.5637 v 5.1273 L 136.1,147.8674 Z" fill="#dfa61f" style="paint-order:stroke fill markers" id="path32" />
+      </g>
+      <g transform="translate(21.779,11.357)" id="g38">
+        <path d="m 136.1,142.74 v 5.1273 l 4.4398,-2.5636 v -5.1273 z" fill="#df651e" style="paint-order:stroke fill markers" id="path33" />
+        <g fill="#dfa61f" id="g36">
+          <path d="m 140.54,140.18 4.4398,2.5637 v 5.1273 l -4.4398,-2.5636 z" style="paint-order:stroke fill markers" id="path34" />
+          <path d="m 140.54,150.43 -4.4398,-2.5637 4.4398,-2.5636 4.4398,2.5637 z" style="paint-order:stroke fill markers" id="path35" />
+          <path d="m 140.54,145.31 v 5.1273 l 4.4398,-2.5636 v -5.1273 z" style="paint-order:stroke fill markers" id="path36" />
+        </g>
+        <path d="m 140.54,145.31 -4.4398,-2.5637 4.4398,-2.5636 4.4398,2.5637 z" fill="#df651e" style="paint-order:stroke fill markers" id="path37" />
+        <path d="m 136.1,142.74 4.4398,2.5637 v 5.1273 L 136.1,147.8674 Z" fill="#dfa61f" style="paint-order:stroke fill markers" id="path38" />
+      </g>
+      <g transform="translate(17.339,-6.5882)" id="g44">
+        <path d="m 136.1,142.74 v 5.1273 l 4.4398,-2.5636 v -5.1273 z" fill="#df651e" style="paint-order:stroke fill markers" id="path39" />
+        <path d="m 140.54,140.18 4.4398,2.5637 v 5.1273 l -4.4398,-2.5636 z" fill="#dfa61f" style="paint-order:stroke fill markers" id="path40" />
+        <path d="m 140.54,150.43 -4.4398,-2.5637 4.4398,-2.5636 4.4398,2.5637 z" fill="#dfa61f" style="paint-order:stroke fill markers" id="path41" />
+        <path d="m 140.54,145.31 v 5.1273 l 4.4398,-2.5636 v -5.1273 z" fill="#df651e" style="paint-order:stroke fill markers" id="path42" />
+        <path d="m 140.54,145.31 -4.4398,-2.5637 4.4398,-2.5636 4.4398,2.5637 z" fill="#df651e" style="paint-order:stroke fill markers" id="path43" />
+        <path d="m 136.1,142.74 4.4398,2.5637 v 5.1273 L 136.1,147.8674 Z" fill="#dfa61f" style="paint-order:stroke fill markers" id="path44" />
+      </g>
+      <g transform="translate(21.779,6.2301)" id="g50">
+        <path d="m 136.1,142.74 v 5.1273 l 4.4398,-2.5636 v -5.1273 z" fill="#df651e" style="paint-order:stroke fill markers" id="path45" />
+        <path d="m 140.54,140.18 4.4398,2.5637 v 5.1273 l -4.4398,-2.5636 z" fill="#dfa61f" style="paint-order:stroke fill markers" id="path46" />
+        <path d="m 140.54,150.43 -4.4398,-2.5637 4.4398,-2.5636 4.4398,2.5637 z" fill="#dfa61f" style="paint-order:stroke fill markers" id="path47" />
+        <path d="m 140.54,145.31 v 5.1273 l 4.4398,-2.5636 v -5.1273 z" fill="#df651e" style="paint-order:stroke fill markers" id="path48" />
+        <path d="m 140.54,145.31 -4.4398,-2.5637 4.4398,-2.5636 4.4398,2.5637 z" fill="#df251e" style="paint-order:stroke fill markers" id="path49" />
+        <path d="m 136.1,142.74 4.4398,2.5637 v 5.1273 L 136.1,147.8674 Z" fill="#dfa61f" style="paint-order:stroke fill markers" id="path50" />
+      </g>
+      <g transform="translate(21.779,-4.0245)" id="g56">
+        <path d="m 136.1,142.74 v 5.1273 l 4.4398,-2.5636 v -5.1273 z" fill="#df651e" style="paint-order:stroke fill markers" id="path51" />
+        <path d="m 140.54,140.18 4.4398,2.5637 v 5.1273 l -4.4398,-2.5636 z" fill="#dfa61f" style="paint-order:stroke fill markers" id="path52" />
+        <path d="m 140.54,150.43 -4.4398,-2.5637 4.4398,-2.5636 4.4398,2.5637 z" fill="#dfa61f" style="paint-order:stroke fill markers" id="path53" />
+        <path d="m 140.54,145.31 v 5.1273 l 4.4398,-2.5636 v -5.1273 z" fill="#df651e" style="paint-order:stroke fill markers" id="path54" />
+        <path d="m 140.54,145.31 -4.4398,-2.5637 4.4398,-2.5636 4.4398,2.5637 z" fill="#df251e" style="paint-order:stroke fill markers" id="path55" />
+        <path d="m 136.1,142.74 4.4398,2.5637 v 5.1273 L 136.1,147.8674 Z" fill="#dfa61f" style="paint-order:stroke fill markers" id="path56" />
+      </g>
+      <g transform="translate(21.779,-14.279)" id="g63">
+        <path d="m 136.1,142.74 v 5.1273 l 4.4398,-2.5636 v -5.1273 z" fill="#df651e" style="paint-order:stroke fill markers" id="path57" />
+        <path d="m 140.54,140.18 4.4398,2.5637 v 5.1273 l -4.4398,-2.5636 z" fill="#dfa61f" style="paint-order:stroke fill markers" id="path58" />
+        <path d="m 140.54,150.43 -4.4398,-2.5637 4.4398,-2.5636 4.4398,2.5637 z" fill="#dfa61f" style="paint-order:stroke fill markers" id="path59" />
+        <g fill="#df651e" id="g62">
+          <path d="m 140.54,145.31 v 5.1273 l 4.4398,-2.5636 v -5.1273 z" style="paint-order:stroke fill markers" id="path60" />
+          <path d="m 140.54,145.31 -4.4398,-2.5637 4.4398,-2.5636 4.4398,2.5637 z" style="paint-order:stroke fill markers" id="path61" />
+          <path d="m 136.1,142.74 4.4398,2.5637 v 5.1273 L 136.1,147.8674 Z" style="paint-order:stroke fill markers" id="path62" />
+        </g>
+      </g>
+      <g transform="translate(26.219,-11.715)" id="g69">
+        <path d="m 136.1,142.74 v 5.1273 l 4.4398,-2.5636 v -5.1273 z" fill="#df651e" style="paint-order:stroke fill markers" id="path63" />
+        <path d="m 140.54,140.18 4.4398,2.5637 v 5.1273 l -4.4398,-2.5636 z" fill="#dfa61f" style="paint-order:stroke fill markers" id="path64" />
+        <path d="m 140.54,150.43 -4.4398,-2.5637 4.4398,-2.5636 4.4398,2.5637 z" fill="#dfa61f" style="paint-order:stroke fill markers" id="path65" />
+        <g fill="#df651e" id="g68">
+          <path d="m 140.54,145.31 v 5.1273 l 4.4398,-2.5636 v -5.1273 z" style="paint-order:stroke fill markers" id="path66" />
+          <path d="m 140.54,145.31 -4.4398,-2.5637 4.4398,-2.5636 4.4398,2.5637 z" style="paint-order:stroke fill markers" id="path67" />
+          <path d="m 136.1,142.74 4.4398,2.5637 v 5.1273 L 136.1,147.8674 Z" style="paint-order:stroke fill markers" id="path68" />
+        </g>
+      </g>
+      <g transform="translate(30.659,-9.1518)" id="g74">
+        <path d="m 136.1,142.74 v 5.1273 l 4.4398,-2.5636 v -5.1273 z" fill="#df651e" style="paint-order:stroke fill markers" id="path69" />
+        <path d="m 140.54,140.18 4.4398,2.5637 v 5.1273 l -4.4398,-2.5636 z" fill="#dfa61f" style="paint-order:stroke fill markers" id="path70" />
+        <path d="m 140.54,150.43 -4.4398,-2.5637 4.4398,-2.5636 4.4398,2.5637 z" fill="#dfa61f" style="paint-order:stroke fill markers" id="path71" />
+        <path d="m 140.54,145.31 v 5.1273 l 4.4398,-2.5636 v -5.1273 z" fill="#df651e" style="paint-order:stroke fill markers" id="path72" />
+        <path d="m 140.54,145.31 -4.4398,-2.5637 4.4398,-2.5636 4.4398,2.5637 z" fill="#df251e" style="paint-order:stroke fill markers" id="path73" />
+        <path d="m 136.1,142.74 4.4398,2.5637 v 5.1273 L 136.1,147.8674 Z" fill="#dfa61f" style="paint-order:stroke fill markers" id="path74" />
+      </g>
+      <g transform="translate(26.219,-1.4608)" id="g80">
+        <path d="m 136.1,142.74 v 5.1273 l 4.4398,-2.5636 v -5.1273 z" fill="#df651e" style="paint-order:stroke fill markers" id="path75" />
+        <g fill="#dfa61f" id="g78">
+          <path d="m 140.54,140.18 4.4398,2.5637 v 5.1273 l -4.4398,-2.5636 z" style="paint-order:stroke fill markers" id="path76" />
+          <path d="m 140.54,150.43 -4.4398,-2.5637 4.4398,-2.5636 4.4398,2.5637 z" style="paint-order:stroke fill markers" id="path77" />
+          <path d="m 140.54,145.31 v 5.1273 l 4.4398,-2.5636 v -5.1273 z" style="paint-order:stroke fill markers" id="path78" />
+        </g>
+        <path d="m 140.54,145.31 -4.4398,-2.5637 4.4398,-2.5636 4.4398,2.5637 z" fill="#df651e" style="paint-order:stroke fill markers" id="path79" />
+        <path d="m 136.1,142.74 4.4398,2.5637 v 5.1273 L 136.1,147.8674 Z" fill="#dfa61f" style="paint-order:stroke fill markers" id="path80" />
+      </g>
+      <g transform="translate(30.659,6.2301)" id="g88">
+        <path d="m 136.1,142.74 v 5.1273 l 4.4398,-2.5636 v -5.1273 z" fill="#df651e" style="paint-order:stroke fill markers" id="path81" />
+        <g fill="#dfa61f" id="g84">
+          <path d="m 140.54,140.18 4.4398,2.5637 v 5.1273 l -4.4398,-2.5636 z" style="paint-order:stroke fill markers" id="path82" />
+          <path d="m 140.54,150.43 -4.4398,-2.5637 4.4398,-2.5636 4.4398,2.5637 z" style="paint-order:stroke fill markers" id="path83" />
+          <path d="m 140.54,145.31 v 5.1273 l 4.4398,-2.5636 v -5.1273 z" style="paint-order:stroke fill markers" id="path84" />
+        </g>
+        <g fill="#df251e" id="g87">
+          <path d="m 140.54,145.31 -4.4398,-2.5637 4.4398,-2.5636 4.4398,2.5637 z" style="paint-order:stroke fill markers" id="path85" />
+          <path d="m 136.1,142.74 4.4398,2.5637 v 5.1273 L 136.1,147.8674 Z" style="paint-order:stroke fill markers" id="path86" />
+          <path d="m 136.1,142.74 4.4398,2.5637 v 5.1273 L 136.1,147.8674 Z" style="paint-order:stroke fill markers" id="path87" />
+        </g>
+      </g>
+      <g transform="translate(21.779,1.1028)" id="g95">
+        <path d="m 136.1,142.74 v 5.1273 l 4.4398,-2.5636 v -5.1273 z" fill="#df651e" style="paint-order:stroke fill markers" id="path88" />
+        <path d="m 140.54,140.18 4.4398,2.5637 v 5.1273 l -4.4398,-2.5636 z" fill="#dfa61f" style="paint-order:stroke fill markers" id="path89" />
+        <path d="m 140.54,150.43 -4.4398,-2.5637 4.4398,-2.5636 4.4398,2.5637 z" fill="#dfa61f" style="paint-order:stroke fill markers" id="path90" />
+        <g fill="#df251e" id="g94">
+          <path d="m 140.54,145.31 v 5.1273 l 4.4398,-2.5636 v -5.1273 z" style="paint-order:stroke fill markers" id="path91" />
+          <path d="m 140.54,145.31 -4.4398,-2.5637 4.4398,-2.5636 4.4398,2.5637 z" style="paint-order:stroke fill markers" id="path92" />
+          <path d="m 136.1,142.74 4.4398,2.5637 v 5.1273 L 136.1,147.8674 Z" style="paint-order:stroke fill markers" id="path93" />
+          <path d="m 136.1,142.74 4.4398,2.5637 v 5.1273 L 136.1,147.8674 Z" style="paint-order:stroke fill markers" id="path94" />
+        </g>
+      </g>
+      <g transform="translate(17.339,13.921)" id="g100">
+        <path d="m 136.1,142.74 v 5.1273 l 4.4398,-2.5636 v -5.1273 z" fill="#df651e" style="paint-order:stroke fill markers" id="path95" />
+        <g fill="#dfa61f" id="g98">
+          <path d="m 140.54,140.18 4.4398,2.5637 v 5.1273 l -4.4398,-2.5636 z" style="paint-order:stroke fill markers" id="path96" />
+          <path d="m 140.54,150.43 -4.4398,-2.5637 4.4398,-2.5636 4.4398,2.5637 z" style="paint-order:stroke fill markers" id="path97" />
+          <path d="m 140.54,145.31 v 5.1273 l 4.4398,-2.5636 v -5.1273 z" style="paint-order:stroke fill markers" id="path98" />
+        </g>
+        <path d="m 140.54,145.31 -4.4398,-2.5637 4.4398,-2.5636 4.4398,2.5637 z" fill="#df651e" style="paint-order:stroke fill markers" id="path99" />
+        <path d="m 136.1,142.74 4.4398,2.5637 v 5.1273 L 136.1,147.8674 Z" fill="#df651e" style="paint-order:stroke fill markers" id="path100" />
+      </g>
+      <g transform="translate(12.899,-4.0245)" id="g108">
+        <path d="m 136.1,142.74 v 5.1273 l 4.4398,-2.5636 v -5.1273 z" fill="#df651e" style="paint-order:stroke fill markers" id="path101" />
+        <path d="m 140.54,140.18 4.4398,2.5637 v 5.1273 l -4.4398,-2.5636 z" fill="#dfa61f" style="paint-order:stroke fill markers" id="path102" />
+        <path d="m 140.54,150.43 -4.4398,-2.5637 4.4398,-2.5636 4.4398,2.5637 z" fill="#dfa61f" style="paint-order:stroke fill markers" id="path103" />
+        <g fill="#df251e" id="g107">
+          <path d="m 140.54,145.31 v 5.1273 l 4.4398,-2.5636 v -5.1273 z" style="paint-order:stroke fill markers" id="path104" />
+          <path d="m 140.54,145.31 -4.4398,-2.5637 4.4398,-2.5636 4.4398,2.5637 z" style="paint-order:stroke fill markers" id="path105" />
+          <path d="m 136.1,142.74 4.4398,2.5637 v 5.1273 L 136.1,147.8674 Z" style="paint-order:stroke fill markers" id="path106" />
+          <path d="m 136.1,142.74 4.4398,2.5637 v 5.1273 L 136.1,147.8674 Z" style="paint-order:stroke fill markers" id="path107" />
+        </g>
+      </g>
+      <path d="m 171.2,141.28 4.4398,2.5637 v 5.1273 L 171.2,146.4074 Z" fill="#df251e" style="paint-order:stroke fill markers" id="path108" />
+      <path d="m 149,148.97 v 5.1273 l 4.4398,-2.5636 v -5.1273 z" fill="#dfa61f" style="paint-order:stroke fill markers" id="path109" />
+    </g>
+  </g>
+  <g id="text" transform="translate(-64.794014,-109.56196)">
+    <g transform="matrix(0.34781,0,0,0.34781,55.704,-170.77)" fill="#ffffff" stroke="#df251e" stroke-width="1.4376" id="g122">
+      <path d="m 26.853,919.19 h 8.6637 v -3.4655 h -1.427 c -0.61155,0 -0.8154,-0.23783 -0.8154,-1.2231 v -12.877 l 4.9604,17.565 h 4.4168 l 5.3001,-17.735 v 13.046 c 0,0.98528 -0.20385,1.2231 -0.8154,1.2231 h -1.1891 v 3.4655 h 11.042 v -3.4655 H 55.8 c -0.64553,0 -0.8154,-0.23783 -0.8154,-1.2231 v -13.216 c 0,-0.9513 0.16988,-1.1891 0.8154,-1.1891 h 1.1891 v -3.4655 h -11.721 l -3.2276,10.872 -3.1597,-10.872 h -12.027 v 3.4655 h 1.4609 c 0.64553,0 0.8154,0.23783 0.8154,1.1891 v 13.216 c 0,0.98528 -0.16988,1.2231 -0.8154,1.2231 h -1.4609 v 3.4655" id="path110" />
+      <path d="m 65.862,905.4 c 1.8686,0 2.5821,0.8154 2.5821,2.5821 v 0.91733 c -4.8245,0.84938 -10.6,1.5968 -10.6,6.2854 0,2.5821 1.9026,4.4847 5.1302,4.4847 2.4462,0 4.7225,-1.2911 5.5379,-3.0238 0.37373,1.1552 0.71348,1.8007 1.4949,2.5481 h 6.5912 v -3.4655 h -0.88335 c -0.47565,0 -0.64553,-0.2718 -0.64553,-1.0532 v -6.7271 c 0,-4.3148 -2.2084,-5.8777 -8.188,-5.8777 -5.47,0 -8.5278,1.5289 -8.5278,4.5527 0,1.9366 1.1891,2.9898 3.2956,2.9898 1.8007,0 3.1257,-1.1891 3.1257,-2.786 0,-0.47565 -0.10192,-0.88335 -0.23783,-1.291 0.33975,-0.0679 0.78143,-0.1359 1.325,-0.1359 m -0.1359,10.532 c -0.98528,0 -1.6988,-0.67951 -1.6988,-1.6988 0,-1.9366 2.0725,-2.4802 4.4168,-2.8539 v 1.2231 c 0,1.9706 -0.91733,3.3296 -2.718,3.3296" id="path111" />
+      <path d="m 77.117,919.19 h 9.581 v -3.4655 h -0.71348 c -0.44168,0 -0.71348,-0.1359 -0.6795,-1.0532 v -0.57758 l 2.0725,-1.8686 1.5289,2.6501 c 0.20385,0.47565 0.16988,0.84938 -0.23783,0.84938 h -0.64553 v 3.4655 h 9.7169 v -3.4655 h -0.61155 c -0.33975,0 -0.71348,-0.10193 -1.0872,-0.74745 l -3.8392,-6.4892 2.2084,-1.8346 c 0.44168,-0.37373 0.8154,-0.64553 1.393,-0.64553 h 1.2571 v -3.4655 h -9.581 v 3.4655 h 1.359 c 0.50963,0 0.71348,0.57758 0.33975,0.91733 l -3.8732,3.5674 v -14.27 c -0.84938,0.20385 -2.3783,0.4077 -4.2129,0.4077 h -4.111 v 3.4655 h 1.0193 c 0.50963,0 0.6795,0.2718 0.6795,1.2231 v 13.352 c 0,0.91733 -0.23783,1.0532 -0.6795,1.0532 h -0.88335 v 3.4655" id="path112" />
+      <path d="m 115.24,912.13 v -0.6795 c 0,-5.9796 -2.718,-9.3432 -8.4938,-9.3432 -5.5719,0 -9.1393,3.4994 -9.1393,8.7656 0,5.2322 3.2616,8.8335 9.3092,8.8335 4.5527,0 6.9649,-1.7667 8.188,-4.111 l -3.0917,-2.2084 c -0.61155,1.291 -1.6988,2.3783 -3.7712,2.3783 -2.3103,0 -3.7373,-1.1552 -3.8392,-3.6353 h 10.838 m -8.4598,-6.5912 c 1.4609,0 2.1065,0.98528 2.1744,3.7373 H 104.3 c 0.1359,-2.684 0.88335,-3.7373 2.4802,-3.7373" id="path113" />
+      <path d="m 124.33,902.13 c -0.88335,0.20385 -2.4122,0.4077 -4.2129,0.4077 h -4.111 v 3.4655 h 1.0192 c 0.5436,0 0.6795,0.2718 0.6795,1.2231 v 7.4406 c 0,0.91733 -0.23782,1.0532 -0.6795,1.0532 h -0.88335 v 3.4655 h 9.8868 v -3.4655 h -1.0192 c -0.44168,0 -0.6795,-0.1359 -0.6795,-1.0532 v -3.9411 c 0.10192,-2.9898 0.78143,-4.5187 2.5142,-4.5187 0.30577,0 0.61155,0.0679 0.84937,0.20385 -0.84937,0.57758 -1.325,1.427 -1.325,2.4802 0,1.4949 1.2911,2.5821 2.8539,2.5821 2.2763,0 3.7712,-1.6308 3.7712,-4.3148 0,-3.0917 -1.6308,-5.0963 -4.3148,-5.0963 -2.1404,0 -3.6693,1.0532 -4.3488,3.4655 v -3.3975" id="path114" />
+      <path d="m 133.93,918.34 c 1.4949,0.5436 3.9751,1.325 7.0328,1.325 5.0623,0 7.7803,-2.2084 7.7803,-5.9456 0,-3.7712 -3.1937,-4.7565 -5.7758,-5.3681 -1.9366,-0.44168 -3.2616,-0.57758 -3.2616,-1.7667 0,-0.88335 0.78142,-1.427 2.1064,-1.427 0.71348,0 1.5629,0.1359 2.0385,0.30578 v 2.0725 h 4.111 v -4.145 c -1.2911,-0.61156 -3.7033,-1.325 -6.5572,-1.325 -4.9604,0 -7.7124,2.2424 -7.7124,5.8777 0,3.6693 3.0578,4.6546 5.6738,5.2661 2.1064,0.44168 3.3635,0.71348 3.3635,1.8686 0,1.0192 -0.84938,1.4949 -2.2084,1.4949 -0.88335,0 -1.6308,-0.0679 -2.2763,-0.23782 v -2.2763 h -4.3148 v 4.2809" id="path115" />
+      <path d="m 149.51,925.03 h 9.8528 v -3.4655 h -0.98527 c -0.44168,0 -0.67951,-0.1359 -0.67951,-1.0532 v -3.7373 c 0.81541,1.7667 2.3443,2.8879 4.9264,2.8879 4.4168,0 7.2707,-3.4994 7.2707,-8.7996 0,-5.3002 -2.6501,-8.7996 -6.9649,-8.7996 -2.786,0 -4.4847,1.2571 -5.3341,3.3975 v -3.3296 c -0.84938,0.20385 -2.3783,0.4077 -4.2129,0.4077 h -4.0091 v 3.4655 h 1.0193 c 0.50962,0 0.6795,0.2718 0.6795,1.2231 v 13.284 c 0,0.91732 -0.23783,1.0532 -0.6795,1.0532 h -0.88335 v 3.4655 m 10.838,-9.4451 c -1.6308,0 -2.6501,-1.1891 -2.6501,-4.4168 v -0.61155 c 0,-3.2616 1.0193,-4.4168 2.6501,-4.4168 1.6308,0 2.6501,1.1891 2.6501,4.4168 v 0.61155 c 0,3.2276 -1.0192,4.4168 -2.6501,4.4168" id="path116" />
+      <path d="m 178.7,905.4 c 1.8686,0 2.5821,0.8154 2.5821,2.5821 v 0.91733 c -4.8245,0.84938 -10.6,1.5968 -10.6,6.2854 0,2.5821 1.9026,4.4847 5.1302,4.4847 2.4462,0 4.7225,-1.2911 5.5379,-3.0238 0.37373,1.1552 0.71348,1.8007 1.4949,2.5481 h 6.5912 v -3.4655 h -0.88335 c -0.47565,0 -0.64553,-0.2718 -0.64553,-1.0532 v -6.7271 c 0,-4.3148 -2.2084,-5.8777 -8.188,-5.8777 -5.47,0 -8.5278,1.5289 -8.5278,4.5527 0,1.9366 1.1891,2.9898 3.2956,2.9898 1.8007,0 3.1257,-1.1891 3.1257,-2.786 0,-0.47565 -0.10192,-0.88335 -0.23782,-1.291 0.33975,-0.0679 0.78143,-0.1359 1.325,-0.1359 m -0.1359,10.532 c -0.98528,0 -1.6988,-0.67951 -1.6988,-1.6988 0,-1.9366 2.0725,-2.4802 4.4168,-2.8539 v 1.2231 c 0,1.9706 -0.91733,3.3296 -2.718,3.3296" id="path117" />
+      <path d="m 200.26,908.96 c 0,1.5629 1.1891,2.8539 3.2276,2.8539 2.2763,0 3.6014,-1.6648 3.6014,-4.0091 0,-3.6693 -2.786,-5.7418 -7.8822,-5.7418 -5.8437,0 -9.3771,3.2956 -9.3771,8.7316 0,5.6399 3.4994,8.8675 9.4111,8.8675 4.4847,0 6.7271,-1.9366 7.8143,-4.6206 l -3.3975,-1.9366 c -0.6795,1.6308 -1.7667,2.5142 -3.5674,2.5142 -2.2424,0 -3.5334,-1.393 -3.5334,-4.6206 v -0.78143 c 0,-3.3296 1.325,-4.7565 3.6693,-4.7565 1.0532,0 1.8347,0.20385 2.3443,0.64552 -1.4949,0.33975 -2.3103,1.393 -2.3103,2.8539" id="path118" />
+      <path d="m 225.24,912.09 v -0.6795 c 0,-5.9796 -2.718,-9.3432 -8.4938,-9.3432 -5.5719,0 -9.1393,3.4994 -9.1393,8.7656 0,5.2322 3.2616,8.8335 9.3092,8.8335 4.5526,0 6.9649,-1.7667 8.188,-4.111 l -3.0917,-2.2084 c -0.61155,1.291 -1.6988,2.3783 -3.7712,2.3783 -2.3103,0 -3.7373,-1.1552 -3.8392,-3.6353 h 10.838 m -8.4598,-6.5912 c 1.4609,0 2.1065,0.98528 2.1744,3.7373 H 214.3 c 0.1359,-2.684 0.88336,-3.7373 2.4802,-3.7373" id="path119" />
+      <path d="m 230.07,919.67 c 2.2084,0 3.7033,-1.427 3.7033,-3.5674 0,-2.1064 -1.4949,-3.5674 -3.7033,-3.5674 -2.2424,0 -3.7033,1.4609 -3.7033,3.5674 0,2.1404 1.4609,3.5674 3.7033,3.5674" id="path120" />
+      <path d="m 234.95,919.19 h 9.615 v -3.4655 h -0.74745 c -0.4077,0 -0.64553,-0.1359 -0.64553,-1.0532 v -18.448 c -0.88335,0.20385 -2.4122,0.4077 -4.2469,0.4077 h -4.111 v 3.4655 h 1.0532 c 0.50962,0 0.64552,0.2718 0.64552,1.2231 v 13.352 c 0,0.91733 -0.23782,1.0532 -0.64552,1.0532 h -0.91733 v 3.4655" id="path121" />
+      <path d="m 253.08,919.67 c 1.359,0 2.684,-0.23783 3.5334,-0.47565 v -3.6014 c -0.33975,0.10192 -0.74745,0.23782 -1.325,0.23782 -1.1891,0 -1.8007,-0.47565 -1.8007,-2.0725 v -7.7463 h 2.8879 v -3.4655 h -2.786 v -4.9264 h -4.4507 l -0.4077,2.6501 c -0.30578,1.5968 -1.2911,2.2084 -2.8199,2.5481 0.034,0 -0.78143,0.10192 -0.78143,0.10192 v 3.0917 h 1.9026 v 7.7124 c 0,4.2808 1.6648,5.9456 6.0476,5.9456" id="path122" />
+    </g>
+  </g>
+</svg>

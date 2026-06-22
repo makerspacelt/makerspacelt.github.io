@@ -1,0 +1,174 @@
+/* ---- Gallery (masonry grid + lightbox) ---- */
+
+.gallery {
+  column-count: 3;
+  column-gap: 0.6rem;
+  margin: 1.5rem 0;
+}
+
+/* Fewer items → fewer columns so a lone photo isn't a tiny sliver. */
+.gallery:not(:has(> :nth-child(3))) { column-count: 2; }
+.gallery:not(:has(> :nth-child(2))) { column-count: 1; }
+
+.gallery-link {
+  display: block;
+  break-inside: avoid;
+  margin-bottom: 0.6rem;
+}
+
+.gallery-item {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  background: var(--card-bg);
+  cursor: zoom-in;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.gallery-link:hover .gallery-item {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.16);
+}
+
+.gallery-link:focus-visible {
+  outline: 2px solid var(--color-secondary);
+  outline-offset: 2px;
+  border-radius: 8px;
+}
+
+.lightbox {
+  position: fixed;
+  inset: 0;
+  z-index: 200;
+  background: rgba(0, 0, 0, 0.93);
+  display: none;
+  align-items: center;
+  justify-content: center;
+  overscroll-behavior: contain;
+}
+
+.lightbox.open {
+  display: flex;
+}
+
+.lightbox-zone {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 25%;
+  z-index: 2;
+  cursor: pointer;
+}
+
+.lightbox-zone-left { left: 0; }
+.lightbox-zone-right { right: 0; }
+
+.lightbox-stage {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 95vw;
+  max-height: 90vh;
+  z-index: 3;
+  /* Let clicks pass through to the nav zones behind; videos re-enable
+     pointer-events so their controls stay usable. */
+  pointer-events: none;
+}
+
+.lightbox-stage img,
+.lightbox-stage video {
+  max-width: 95vw;
+  max-height: 85vh;
+  object-fit: contain;
+  border-radius: 4px;
+  user-select: none;
+  -webkit-user-drag: none;
+}
+
+.lightbox-stage video {
+  pointer-events: auto;
+}
+
+.lightbox-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  border: none;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.18);
+  color: #fff;
+  font-size: 1.8rem;
+  line-height: 1;
+  cursor: pointer;
+  z-index: 4;
+  transition: opacity 0.2s ease, background 0.15s ease;
+}
+
+.lightbox-btn:hover {
+  background: rgba(255, 255, 255, 0.32);
+}
+
+/* Prev/next fade in when the mouse enters the corresponding screen edge. */
+.lightbox-prev,
+.lightbox-next {
+  opacity: 0.35;
+}
+
+.lightbox-zone-left:hover ~ .lightbox-prev,
+.lightbox-zone-right:hover ~ .lightbox-next,
+.lightbox-prev:hover,
+.lightbox-next:hover {
+  opacity: 1;
+}
+
+.lightbox-prev { left: 1rem; }
+.lightbox-next { right: 1rem; }
+
+.lightbox-close {
+  top: 1rem;
+  right: 1rem;
+  transform: none;
+  font-size: 1.6rem;
+  opacity: 0.6;
+}
+
+.lightbox-close:hover {
+  opacity: 1;
+}
+
+.lightbox-counter {
+  position: absolute;
+  top: 1.25rem;
+  left: 1.25rem;
+  color: rgba(255, 255, 255, 0.65);
+  font-family: var(--font-mono);
+  font-size: 0.82rem;
+  z-index: 3;
+  pointer-events: none;
+}
+
+.lightbox-caption {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 0.8rem 1rem 1rem;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.7), transparent);
+  color: #fff;
+  font-size: 0.92rem;
+  line-height: 1.4;
+  text-align: center;
+  z-index: 3;
+  pointer-events: none;
+}
+
+.lightbox-caption:empty {
+  display: none;
+}

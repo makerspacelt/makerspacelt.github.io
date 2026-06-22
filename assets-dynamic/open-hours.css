@@ -1,0 +1,83 @@
+/* ---- Open hours ---- */
+
+.oh-weekday {
+  width: 12ch;
+  display: inline-block;
+}
+
+.oh-control {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+  margin: 0.9rem 0 0;
+}
+
+.oh-label {
+  font-family: var(--font-display);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+.oh-slider {
+  flex: 1 1 auto;
+  min-width: 110px;
+  height: 4px;
+  accent-color: var(--color-secondary);
+  cursor: pointer;
+}
+
+.oh-value {
+  font-variant-numeric: tabular-nums;
+  font-weight: 600;
+  color: var(--fg);
+  white-space: nowrap;
+  text-align: right;
+  min-width: 4.5ch;
+}
+
+.open-hours ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.open-hours li {
+  font-variant-numeric: tabular-nums;
+}
+
+.oh-now {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin: 0.8rem 0 0;
+  font-weight: 600;
+}
+
+.oh-dot {
+  width: 0.6rem;
+  height: 0.6rem;
+  border-radius: 50%;
+  background: currentColor;
+  flex-shrink: 0;
+}
+
+.oh-now.oh-open .oh-dot {
+  animation: oh-pulse 2s ease-in-out infinite;
+  box-shadow: 0 0 0 0 currentColor;
+}
+
+@keyframes oh-pulse {
+  50% { box-shadow: 0 0 0 4px color-mix(in srgb, currentColor 35%, transparent); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .oh-now.oh-open .oh-dot { animation: none; }
+}
+
+.oh-now.oh-open { color: #2e8b3a; }
+.oh-now.oh-closed { color: var(--color-primary); }
+[data-theme="dark"] .oh-now.oh-open { color: #5fc36a; }
