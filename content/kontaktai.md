@@ -1,0 +1,12 @@
+---
+tags: []
+leafwiki_id: MXdjvlaDR
+leafwiki_title: kontaktai
+leafwiki_created_at: "2026-06-22T11:32:33.764302458Z"
+leafwiki_updated_at: "2026-06-22T11:43:15.490943871Z"
+leafwiki_creator_id: public-editor
+leafwiki_last_author_id: public-editor
+---
+[Kontaktai](/#kontaktai)
+
+<script>window.location.replace("/#kontaktai")</script>
