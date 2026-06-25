@@ -157,32 +157,31 @@ function pageTemplate({ title, tocList, navHtml, contentHtml, prefix }) {
 <link rel="stylesheet" href="${prefix}bundle.css">
 </head>
 <body>
-<header class="site-header" id="site-header">
-  <div class="header-inner">
-    <div class="brand">
-      <span class="brand-logo" id="site-logo" role="img" aria-hidden="true">${logoSvg}</span>
-      <a class="brand-name" href="${prefix}">Kaunas Makerspace</a>
-    </div>
-    <nav class="primary-nav" aria-label="Puslapiai">
-      ${navHtml}
-    </nav>
-    <button class="menu-toggle" id="menu-toggle" aria-label="Meniu" aria-expanded="false">☰</button>
-  </div>
-  <div class="scroll-progress" id="scroll-progress" aria-hidden="true"></div>
-</header>
+<div class="scroll-progress" id="scroll-progress" aria-hidden="true"></div>
 <div class="layout">
-  <aside class="sidebar" id="sidebar">
-    <div class="sidebar-content">
-      <nav class="sidebar-nav" aria-label="Puslapiai">
-        <div class="sidebar-label">Puslapiai</div>
-        ${navHtml}
-      </nav>
-      ${tocBlock}
-    </div>
-    <div class="sidebar-foot">
-      <button id="theme-toggle" aria-label="Perjungti temą">🌓</button>
-    </div>
-  </aside>
+  <div class="sidebar-col">
+    <header class="site-header" id="site-header">
+      <div class="header-inner">
+        <div class="brand">
+          <span class="brand-logo" id="site-logo" role="img" aria-hidden="true">${logoSvg}</span>
+          <a class="brand-name" href="${prefix}">Kaunas Makerspace</a>
+        </div>
+        <button class="menu-toggle" id="menu-toggle" aria-label="Meniu" aria-expanded="false">☰</button>
+      </div>
+    </header>
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-content">
+        <nav class="sidebar-nav" aria-label="Puslapiai">
+          ${navHtml}
+        </nav>
+        <hr>
+        ${tocBlock}
+      </div>
+      <div class="sidebar-foot">
+        <button id="theme-toggle" aria-label="Perjungti temą">🌓</button>
+      </div>
+    </aside>
+  </div>
   <main class="content">
     <article class="content-inner">
       ${contentHtml}
