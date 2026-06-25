@@ -45,7 +45,7 @@ Everything else in this repository is theming and dynamic functionality on top o
 
 - `assets-dynamic/*.js`, `assets-dynamic/*.css`
 - Logo: `assets-dynamic/brand/logo-cubes.svg` (dynamic because it is inlined by the build script)
-- Display font (headings, brand wordmark, sidebar labels, nav): self-hosted variable `assets-dynamic/brand/space-grotesk.woff2` (Space Grotesk, latin subset, ~22 KB), loaded via `@font-face` in `main.css`. Body text stays on the system-ui stack.
+- Font (headings, brand wordmark, sidebar labels, nav, and body): self-hosted variable Saira (OFL), split into `latin` + `latin-ext` subsets (`assets-dynamic/brand/saira-latin.woff2` ~33 KB, `saira-latin-ext.woff2` ~25 KB) loaded via two `@font-face` blocks in `main.css` with `unicode-range` so browsers fetch only what the page needs. Latin-ext covers all Lithuanian glyphs. Body and display share the same family; mono stays on the system stack.
 - JS files are organized as named `setup*()` functions called once at the end of the file; no inline top-level code. Style is minimal and short; avoid comments that restate what the code does; no semicolons.
 - CSS rules should be minimal, no comments that restate the obvious, effective use of inheritance, only fork those rules into @media that are required for functionality.
 
