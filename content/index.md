@@ -3,7 +3,7 @@ tags: []
 leafwiki_id: 9m6VrzaDR
 leafwiki_title: makerspace.lt
 leafwiki_created_at: "2026-06-12T23:51:22.972157536Z"
-leafwiki_updated_at: "2026-06-20T22:44:12.108467609Z"
+leafwiki_updated_at: "2026-06-22T12:49:42.250884443Z"
 leafwiki_creator_id: public-editor
 leafwiki_last_author_id: public-editor
 ---
@@ -63,6 +63,14 @@ Eik pro paradines duris ir vadovaukis lipdukais su makerspace.lt užrašu. Jeigu
 
 <p><img src="/assets/9m6VrzaDR/r86a-iejimas.jpg" style="max-height: 400px;"></p>
 
+## Kontaktai
+
+- El. paštas: [labas@makerspace.lt](mailto:labas@makerspace.lt)
+- Facebook: [facebook.com/KaunasMakerspace](https://www.facebook.com/KaunasMakerspace)
+- Instagram: [@kaunas.makerspace](https://www.instagram.com/kaunas.makerspace/)
+- Youtube: [@KaunasMakerspace](https://www.youtube.com/@KaunasMakerspace)
+- Github: [makerspacelt](https://github.com/makerspacelt/)
+
 ## Parama
 
 Kaunas Makerspace egzistuoja bendruomenės dėka. 
@@ -114,11 +122,3 @@ Tau reikia tik nurodyti mūsų įmonės kodą **<span class="click-to-copy">3041
 
   [Parsisiųsti paramos sutarties šabloną](/assets/9m6VrzaDR/paramos-sutarties-sablonas.docx)
 </div><!-- /centered -->
-
-## Kontaktai
-
-- El. paštas: [labas@makerspace.lt](mailto:labas@makerspace.lt)
-- Facebook: [facebook.com/KaunasMakerspace](https://www.facebook.com/KaunasMakerspace)
-- Instagram: [@kaunas.makerspace](https://www.instagram.com/kaunas.makerspace/)
-- Youtube: [@KaunasMakerspace](https://www.youtube.com/@KaunasMakerspace)
-- Github: [makerspacelt](https://github.com/makerspacelt/)
