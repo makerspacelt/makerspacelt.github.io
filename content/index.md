@@ -3,7 +3,7 @@ tags: []
 leafwiki_id: 9m6VrzaDR
 leafwiki_title: makerspace.lt
 leafwiki_created_at: "2026-06-12T23:51:22.972157536Z"
-leafwiki_updated_at: "2026-06-29T13:21:25.132123194Z"
+leafwiki_updated_at: "2026-06-29T13:42:19.147465523Z"
 leafwiki_creator_id: public-editor
 leafwiki_last_author_id: public-editor
 ---
@@ -63,14 +63,6 @@ Kiekvieną pirmą mėnesio šeštadienį, 18:00, organizuojame **Hack & Tell** r
 <iframe class="map" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=23.862,54.904,23.880,54.912&amp;layer=mapnik&amp;marker=54.90792,23.87100" loading="lazy"></iframe>
 
 <p><img src="/assets/9m6VrzaDR/r86a-iejimas.jpg" style="max-height: 400px;"></p>
-
-## Kontaktai
-
-- El. paštas: [labas@makerspace.lt](mailto:labas@makerspace.lt)
-- Facebook: [facebook.com/KaunasMakerspace](https://www.facebook.com/KaunasMakerspace)
-- Instagram: [@kaunas.makerspace](https://www.instagram.com/kaunas.makerspace/)
-- Youtube: [@KaunasMakerspace](https://www.youtube.com/@KaunasMakerspace)
-- Github: [makerspacelt](https://github.com/makerspacelt/)
 
 ## Parama
 
