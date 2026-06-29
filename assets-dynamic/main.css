@@ -536,91 +536,58 @@ a {
 /* ---- Footer ---- */
 
 .site-footer {
-  margin-top: auto;
+  padding: 3rem 2rem 4rem 2rem;
   border-top: 1px solid var(--border);
   background: var(--sidebar-bg);
+  font-size: 0.9rem;
 }
 
-.footer-inner {
+.site-footer-inner {
   max-width: 1180px;
   margin: 0 auto;
-  padding: 2.5rem 2rem 2rem;
-  display: grid;
-  gap: 1.25rem 2rem;
-  grid-template-columns: 1fr auto;
-  grid-template-areas:
-    "brand   nav"
-    "contact nav"
-    "social  nav";
 }
 
-.footer-brand {
-  grid-area: brand;
-  display: flex;
-  align-items: center;
-  gap: 0.6rem;
-}
-
-.footer-brand .brand-logo {
-  width: 28px;
-  height: 27px;
-}
-
-.footer-nav {
-  grid-area: nav;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.25rem 1rem;
-  justify-content: flex-end;
-}
-
-.footer-nav a {
+.site-footer a {
   font-family: var(--font-display);
-  font-size: 0.9rem;
   color: var(--muted);
   text-decoration: none;
 }
 
-.footer-nav a:hover {
+.site-footer a:hover {
+  text-decoration: underline;
   color: var(--accent);
+}
+
+.site-footer a[href^="mailto:"] {
+  color: var(--accent);
+}
+
+.site-footer nav a {
+  display: inline-block;
+  margin-right: 1rem;
+}
+
+.site-footer nav a:last-child {
+  margin-right: 0rem;
 }
 
 .footer-contact {
-  grid-area: contact;
-  display: flex;
-  flex-direction: column;
-  gap: 0.15rem;
-  font-size: 0.9rem;
+  float: left;
 }
 
-.footer-contact a {
-  text-decoration: none;
+.footer-page-nav {
+  float: right;
 }
 
-.footer-contact a:hover {
-  text-decoration: underline;
-}
-
-.footer-contact .muted {
+.footer-address {
+  margin-top: 0.5rem;
   color: var(--muted);
 }
 
-.footer-social {
-  grid-area: social;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.25rem 1rem;
-  justify-content: flex-start;
-  font-size: 0.9rem;
-}
-
-.footer-social a {
+.footer-brand-link {
+  margin-top: 0.5rem;
   color: var(--muted);
-  text-decoration: none;
-}
-
-.footer-social a:hover {
-  color: var(--accent);
+  font-size: 0.8rem;
 }
 
 .click-to-copy {
@@ -773,19 +740,15 @@ a {
     height: 220px;
   }
 
-  .footer-inner {
-    grid-template-columns: 1fr;
-    grid-template-areas:
-      "brand"
-      "nav"
-      "contact"
-      "social";
-    gap: 1.25rem;
+  .footer-contact {
+    width: 100%;
+    margin-top: 1.5rem;
   }
 
-  .footer-nav {
-    justify-content: flex-start;
-  }
+  .footer-page-nav {
+    width: 100%;
+    margin-top: 1.5rem;
+  } 
 }
 
 @media (max-width: 700px) {

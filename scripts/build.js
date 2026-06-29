@@ -30,7 +30,7 @@ const SOCIAL = [
 
 // Read the logo SVG once — inlined in the header and footer so JS can manipulate
 // individual cube groups without a runtime fetch (which fails on file://)
-const logoSvg = (await readFile(join(ASSETS_DYNAMIC, 'brand/logo-cubes.svg'), 'utf-8'))
+const logoSvg = (await readFile(join(ASSETS_STATIC, 'brand', 'logo-cubes.svg'), 'utf-8'))
   .replace(/^<\?xml[^>]*>\s*/, ''); // strip XML declaration for inline HTML
 
 async function copyDir(src, dst) {
@@ -187,21 +187,27 @@ function pageTemplate({ title, tocList, navHtml, contentHtml, prefix }) {
       ${contentHtml}
     </article>
     <footer class="site-footer">
-      <div class="footer-inner">
-        <div class="footer-brand">
-          <span class="brand-logo" id="site-logo-footer" role="img" aria-hidden="true">${logoSvg}</span>
-          <a class="brand-name" href="${prefix}">Kaunas Makerspace</a>
+      <div class="site-footer-inner">
+        <div class="footer-page-nav">
+          <nav aria-label="Puslapiai">
+            ${navHtml}
+          </nav>
         </div>
-        <nav class="footer-nav" aria-label="Puslapiai">
-          ${navHtml}
-        </nav>
         <div class="footer-contact">
-          <a href="mailto:labas@makerspace.lt">labas@makerspace.lt</a>
-          <span class="muted">Raudondvario pl. 86A, Kaunas</span>
+          <div>Kontaktai:</div>
+          <div aria-label="El. paštas">
+            <a href="mailto:labas@makerspace.lt">labas@makerspace.lt</a>
+          </div>
+          <nav aria-label="Socialiniai tinklai">
+            ${socialHtml}
+          </nav>
+          <div class="footer-address" aria-label="Adresas">
+            <a href="/#kur-mus-rasti">Raudondvario pl. 86A, Kaunas</a>
+          </div>
+          <div class="footer-brand-link" aria-label="Logotipai">
+            <a href="/brand">(Logotipai)</a>
+          </div>
         </div>
-        <nav class="footer-social" aria-label="Socialiniai tinklai">
-          ${socialHtml}
-        </nav>
       </div>
     </footer>
   </main>
