@@ -3,11 +3,13 @@ tags: []
 leafwiki_id: 9m6VrzaDR
 leafwiki_title: makerspace.lt
 leafwiki_created_at: "2026-06-12T23:51:22.972157536Z"
-leafwiki_updated_at: "2026-06-20T22:44:12.108467609Z"
+leafwiki_updated_at: "2026-06-29T13:21:25.132123194Z"
 leafwiki_creator_id: public-editor
 leafwiki_last_author_id: public-editor
 ---
 # Kaunas Makerspace – atviros dirbtuvės
+
+![hero.jpg](/assets/9m6VrzaDR/hero.jpg)
 
 Durys atviros kiekvienam, kas sugeba atsakingai naudotis bendrais įrankiais, susitvarkyti savo darbo vietą ir bet kokiu būdu prisideda prie dirbtuvių gyvavimo.
 
@@ -53,15 +55,22 @@ Kiekvieną pirmą mėnesio šeštadienį, 18:00, organizuojame **Hack & Tell** r
 
 ## Kur mus rasti
 
-Adresas: <span class="click-to-copy">Raudondvario pl. 86A, Kaunas</span>
-
-Koordinatės: [54.90792, 23.87100](geo:54.90792,23.87100?z=15)
-
-Eik pro paradines duris ir vadovaukis lipdukais su makerspace.lt užrašu. Jeigu užrakinta, skambink pažymėtu skambučiu.
+- Adresas: <span class="click-to-copy">Raudondvario pl. 86A, Kaunas</span>
+- Koordinatės: [54.90792, 23.87100](geo:54.90792,23.87100?z=15)
+- Eik pro paradines duris ir vadovaukis lipdukais su makerspace.lt užrašu. Jeigu užrakinta, skambink pažymėtu skambučiu.
+- Kilus klausimų susisiek labas@makerspace.lt arba [FB](https://www.facebook.com/KaunasMakerspace)
 
 <iframe class="map" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=23.862,54.904,23.880,54.912&amp;layer=mapnik&amp;marker=54.90792,23.87100" loading="lazy"></iframe>
 
 <p><img src="/assets/9m6VrzaDR/r86a-iejimas.jpg" style="max-height: 400px;"></p>
+
+## Kontaktai
+
+- El. paštas: [labas@makerspace.lt](mailto:labas@makerspace.lt)
+- Facebook: [facebook.com/KaunasMakerspace](https://www.facebook.com/KaunasMakerspace)
+- Instagram: [@kaunas.makerspace](https://www.instagram.com/kaunas.makerspace/)
+- Youtube: [@KaunasMakerspace](https://www.youtube.com/@KaunasMakerspace)
+- Github: [makerspacelt](https://github.com/makerspacelt/)
 
 ## Parama
 
@@ -114,11 +123,3 @@ Tau reikia tik nurodyti mūsų įmonės kodą **<span class="click-to-copy">3041
 
   [Parsisiųsti paramos sutarties šabloną](/assets/9m6VrzaDR/paramos-sutarties-sablonas.docx)
 </div><!-- /centered -->
-
-## Kontaktai
-
-- El. paštas: [labas@makerspace.lt](mailto:labas@makerspace.lt)
-- Facebook: [facebook.com/KaunasMakerspace](https://www.facebook.com/KaunasMakerspace)
-- Instagram: [@kaunas.makerspace](https://www.instagram.com/kaunas.makerspace/)
-- Youtube: [@KaunasMakerspace](https://www.youtube.com/@KaunasMakerspace)
-- Github: [makerspacelt](https://github.com/makerspacelt/)
