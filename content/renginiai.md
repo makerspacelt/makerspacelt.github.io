@@ -3,7 +3,7 @@ tags: []
 leafwiki_id: YCoE5vaDR
 leafwiki_title: renginiai
 leafwiki_created_at: "2026-06-15T21:54:09.973603991Z"
-leafwiki_updated_at: "2026-07-19T12:07:51.557211399Z"
+leafwiki_updated_at: "2026-07-19T13:06:46.032938817Z"
 leafwiki_creator_id: public-editor
 leafwiki_last_author_id: public-editor
 ---
@@ -92,5 +92,18 @@ Robotukų litavimo ir konstravimo dirbtuvės, kurio finalas - mini varžybos are
     <img src="/assets/YCoE5vaDR/2023-09-09-aliuminio-liejimas-su-cmk-4.jpg">
     <img src="/assets/YCoE5vaDR/2023-09-09-aliuminio-liejimas-su-cmk-5.jpg">
     <img src="/assets/YCoE5vaDR/2023-09-09-aliuminio-liejimas-su-cmk-6.jpg">
+  </div>
+
+* Šildomų pelių dirbtuvės, 2019-02-02
+
+  Ardėme kompiuterines peles, į vidų litavome šildančią varžą, išorę flokavome ir … žiemą maloniai šildėmės rankas.
+
+  <div class="gallery">
+    <img src="/assets/YCoE5vaDR/2019-02-02-sildomu-peliu-dirbtuves-2.jpg">
+    <img src="/assets/YCoE5vaDR/2019-02-02-sildomu-peliu-dirbtuves-1.jpg">
+    <img src="/assets/YCoE5vaDR/2019-02-02-sildomu-peliu-dirbtuves-3.jpg">
+    <img src="/assets/YCoE5vaDR/2019-02-02-sildomu-peliu-dirbtuves-4.jpg">
+    <img src="/assets/YCoE5vaDR/2019-02-02-sildomu-peliu-dirbtuves-5.jpg">
+    <img src="/assets/YCoE5vaDR/2019-02-02-sildomu-peliu-dirbtuves-6.jpg">
   </div>
   
