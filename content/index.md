@@ -3,7 +3,7 @@ tags: []
 leafwiki_id: 9m6VrzaDR
 leafwiki_title: makerspace.lt
 leafwiki_created_at: "2026-06-12T23:51:22.972157536Z"
-leafwiki_updated_at: "2026-06-29T13:42:19.147465523Z"
+leafwiki_updated_at: "2026-07-19T12:35:02.764391159Z"
 leafwiki_creator_id: public-editor
 leafwiki_last_author_id: public-editor
 ---
@@ -18,6 +18,23 @@ Kaunas Makerspace dirbtuvės įkurtos 2013 metais. Per dirbtuvių istoriją įva
 Kai kurie nariai ateina tiesiog pabendrauti, kiti – pasinaudoti patogiomis ir erdviomis dirbtuvėmis bei įrankiais, kurių neturi namuose ar garaže.
 
 Laukiame tavęs, jeigu nori ką nors konstruoti bei kurti ir ieškai tam tinkamos erdvės. Primename, kad Makerspace - tai ne aptarnavimo įmonė. Pamokysime ir pakonsultuosime, bet nepadarysime už tave.
+
+<details>
+  <summary>Daugiau apie mus…</summary>
+
+* Mūsų [patalpos ir įranga](/makerspace-lt/patalpos)
+* Mūsų [bendruomenės renginiai](/makerspace-lt/renginiai)
+* LRT „Bendrystės istorijos“ 2026-02-02 video reportažas:
+
+  [Meistravimui įkurtos bendruomenės Kaune nariai: čia ateina saulės šviesos nemėgstantys](https://www.lrt.lt/mediateka/irasas/2000633094/meistravimui-ikurtos-bendruomenes-kaune-nariai-cia-ateina-saules-sviesos-nemegstantys)
+  
+* TV3 „Atliekų kultūros“ 2025-05-20 video reportažas:
+  
+  [ANTRAS ŠANSAS: "Makerspace" - atviros dirbtuvės Kaune](https://www.youtube.com/watch?v=XNaxQpjhVF0)
+
+  
+
+</details>
 
 ## Užeik pas mus
 
