@@ -3,7 +3,7 @@ tags: []
 leafwiki_id: YCoE5vaDR
 leafwiki_title: renginiai
 leafwiki_created_at: "2026-06-15T21:54:09.973603991Z"
-leafwiki_updated_at: "2026-07-19T13:05:37.323064547Z"
+leafwiki_updated_at: "2026-07-21T14:09:03.1053984Z"
 leafwiki_creator_id: public-editor
 leafwiki_last_author_id: public-editor
 ---
@@ -39,45 +39,52 @@ Kiekvieno renginio pabaigoje visi kartu balsuojame už labiausiai patikusį pran
 
 Renginys, per kurį kviečiame visus norinčius susiremontuoti savo sugedusius daiktus.
 
-* 2023-10-14 kartu su [CMK](https://www.facebook.com/circular.makerspace/)
-  <div class="gallery">
-    <img src="/assets/YCoE5vaDR/2023-remonto-kavine-1.jpg">
-    <img src="/assets/YCoE5vaDR/2023-remonto-kavine-2.jpg">
-    <img src="/assets/YCoE5vaDR/2023-remonto-kavine-0.jpg">
-  </div>
-
-* 2024-10-12 kartu su [Tech-Park Kaunas](https://techpark.lt/)
-  <div class="gallery">
-    <img src="/assets/YCoE5vaDR/2024-remonto-kavine-1.jpg">
-    <img src="/assets/YCoE5vaDR/2024-remonto-kavine-2.jpg">
-    <img src="/assets/YCoE5vaDR/2024-remonto-kavine-3.jpg">
-  </div>
-  
-
-* 2025-11-22 kartu su [LEMONA electronics](https://www.lemona.lt/)
+* 2025-11-22 kartu su [LEMONA electronics](https://www.lemona.lt/) ([FB skelbimas](https://www.facebook.com/events/855333570406583/))
   <div class="gallery">
     <img src="/assets/YCoE5vaDR/2025-remonto-kavine-1.jpg">
     <img src="/assets/YCoE5vaDR/2025-remonto-kavine-7.jpg">
     <img src="/assets/YCoE5vaDR/2025-remonto-kavine-8.jpg">
   </div>
 
+* 2024-10-12 kartu su [Tech-Park Kaunas](https://techpark.lt/) ([FB skelbimas](https://www.facebook.com/events/465816179792756/))
+  <div class="gallery">
+    <img src="/assets/YCoE5vaDR/2024-remonto-kavine-1.jpg">
+    <img src="/assets/YCoE5vaDR/2024-remonto-kavine-2.jpg">
+    <img src="/assets/YCoE5vaDR/2024-remonto-kavine-3.jpg">
+  </div>
+
+* 2023-10-14 kartu su [CMK](https://www.facebook.com/circular.makerspace/) ([FB skelbimas](https://www.facebook.com/events/339631998554369/))
+  <div class="gallery">
+    <img src="/assets/YCoE5vaDR/2023-remonto-kavine-1.jpg">
+    <img src="/assets/YCoE5vaDR/2023-remonto-kavine-2.jpg">
+    <img src="/assets/YCoE5vaDR/2023-remonto-kavine-0.jpg">
+  </div>
+
 ## Antweight robotukų dirbtuvės
 
-Robotukų litavimo ir konstravimo dirbtuvės, kurio finalas - mini varžybos arenoje.
+Robotukų litavimo ir konstravimo dirbtuvės, kurių finalas - mini varžybos arenoje.
 
-* 2023-09-23 kartu su [CMK](https://www.facebook.com/circular.makerspace/)
+Dirbtuvėse dalyvauja 20-30 vaikų, mokosi lituoti, surinkti robotuką ir jį valdyti arenoje.
+
+* 2024-10-19 kartu su [Tech-Park Kaunas](https://techpark.lt/) ([FB skelbimas](https://www.facebook.com/events/2521923184682439/))
+  <div class="gallery">
+    <img src="/assets/YCoE5vaDR/2024-antweight-1.jpg">
+    <img src="/assets/YCoE5vaDR/2024-antweight-2.jpg">
+    <img src="/assets/YCoE5vaDR/2024-antweight-3.jpg">
+  </div>
+
+* 2023-09-23 kartu su [CMK](https://www.facebook.com/circular.makerspace/) ([FB skelbimas](https://www.facebook.com/events/306412245307462/))
 <div class="gallery">
     <img src="/assets/YCoE5vaDR/2023-antweight-1.jpg">
     <img src="/assets/YCoE5vaDR/2023-antweight-2.jpg">
     <img src="/assets/YCoE5vaDR/2023-antweight-3.jpg">
   </div>
 
-* 2024-10-19 kartu su [Tech-Park Kaunas](https://techpark.lt/)
-  <div class="gallery">
-    <img src="/assets/YCoE5vaDR/2024-antweight-1.jpg">
-    <img src="/assets/YCoE5vaDR/2024-antweight-2.jpg">
-    <img src="/assets/YCoE5vaDR/2024-antweight-3.jpg">
-  </div>
+## Antweight robotukų varžybos
+
+* Buvome robotukų varžybų „ComicClash 2024 - Antweight varžybos“ partneriai ([FB skelbimas](https://www.facebook.com/events/2245633965767924/)).
+
+* Savo patalpose organizavome „MakerWars 2023. Kovinių antweight robotų varžybos“, 2023-09-30 kartu su Tomu Sobutu ([FB skelbimas](https://www.facebook.com/events/703154735163924/)).
 
 ## Kiti renginiai
 
