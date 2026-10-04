@@ -6,7 +6,7 @@ name: Deploy Static Website to Github Pages
 
 on:
   push:  # Runs on pushes targeting the default branch
-    branches: ["main"]
+    branches: ["master"]
 
   workflow_dispatch:  # Allows you to run this workflow manually from the Actions tab
 

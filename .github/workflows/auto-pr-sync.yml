@@ -33,7 +33,7 @@ jobs:
             echo "Creating pull request for $BRANCH_NAME..."
             gh pr create \
               --head "$BRANCH_NAME" \
-              --base main \
+              --base master \
               --title "Auto $BRANCH_NAME" \
               --body "This is an automated pull request triggered by a push to the $BRANCH_NAME branch."
           else
