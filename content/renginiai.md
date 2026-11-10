@@ -3,7 +3,7 @@ tags: []
 leafwiki_id: YCoE5vaDR
 leafwiki_title: renginiai
 leafwiki_created_at: "2026-06-15T21:54:09.973603991Z"
-leafwiki_updated_at: "2026-07-21T14:09:03.1053984Z"
+leafwiki_updated_at: "2026-07-24T12:54:50.52757529Z"
 leafwiki_creator_id: public-editor
 leafwiki_last_author_id: public-editor
 ---
@@ -88,9 +88,9 @@ Dirbtuvėse dalyvauja 20-30 vaikų, mokosi lituoti, surinkti robotuką ir jį va
 
 ## Kiti renginiai
 
-* Aliuminio liejimo dirbtuvės kartu su  [CMK](https://www.facebook.com/circular.makerspace/), 2023-09-09
+* Aliuminio liejimo dirbtuvės kartu su  [CMK](https://www.facebook.com/circular.makerspace/), 2023-09-09 ([FB skelbimas](https://www.facebook.com/events/1083379513010441/))
   
-  Išardę senus kompiuterių diskus ir kitus įrengimus, turinčius aliminio, užkūrėme savo gamybos metalo lydimo krosnį ir liejome įvairias formas.
+  Išardę senus kompiuterių diskus ir kitus įrengimus, turinčius alimiunio, užkūrėme savo gamybos metalo lydimo krosnį ir liejome įvairias formas.
 
   <div class="gallery">
     <img src="/assets/YCoE5vaDR/2023-09-09-aliuminio-liejimas-su-cmk-1.jpg">
