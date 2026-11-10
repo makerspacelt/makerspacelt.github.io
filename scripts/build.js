@@ -13,7 +13,7 @@ const ASSETS_DYNAMIC = 'assets-dynamic';
 // "Paremk" entry, which jumps to the #parama section on the home page.
 const NAV = [
   { slug: '',          label: 'Apie mus' },
-  { slug: 'patalpos',  label: 'Įranga' },
+  { slug: 'patalpos',  label: 'Patalpos' },
   // { slug: 'projektai', label: 'Projektai' },
   { slug: 'renginiai', label: 'Renginiai' },
   { slug: 'tvarka',    label: 'Tvarka' },
