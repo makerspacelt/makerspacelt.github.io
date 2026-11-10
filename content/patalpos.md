@@ -3,7 +3,7 @@ tags: []
 leafwiki_id: DhsmlFaDR
 leafwiki_title: patalpos
 leafwiki_created_at: "2026-06-16T20:26:31.26483054Z"
-leafwiki_updated_at: "2026-06-18T15:03:44.047202891Z"
+leafwiki_updated_at: "2026-11-10T12:31:22.999516754Z"
 leafwiki_creator_id: public-editor
 leafwiki_last_author_id: public-editor
 ---
@@ -18,6 +18,28 @@ Turime įrankius darbui su medžiu, metalu, elektronika:
 
 # Patalpos
 
+## Elektronika - „švarios“ dirbtuvės
+<div class="gallery">
+  <img src="/assets/DhsmlFaDR/2026-elektronika-pakeisti-stalai.jpg" title="Elektronikos dirbtuvės - darbo vietos (2026)">
+  <img src="/assets/DhsmlFaDR/2025-elektronika-stalciai.jpg" title="Elektronikos dirbtuvės - darbo vietos ir komponentų kolekcija (2025)">
+  <img src="/assets/DhsmlFaDR/2025-elektronika-sofa.jpg" title="Elektronikos dirbtuvės - „virtuvė“ (2025)">
+</div>
+
+## „Purvinos“ dirbtuvės ir staklių patalpa
+<div class="gallery">
+  <img src="/assets/DhsmlFaDR/2025-dirbtuves-purvinos.jpg" title="„Purvinos“ dirbtuvės (2025)">
+  <img src="/assets/DhsmlFaDR/2025-stakliu-patalpa.jpg" title="Staklių patalpa (2025)">
+</div>
+
+## Projektų ir medžiagų saugyklos
+<div class="gallery">
+  <img src="/assets/DhsmlFaDR/2025-sandelis-medziagu.jpg" title="Medžiagų sandėlis (2025)">
+  <img src="/assets/DhsmlFaDR/2025-sandelis-projektu-3.jpg" title="Projektų saugykla (2025)">
+  <img src="/assets/DhsmlFaDR/2025-sandelis-projektu.jpg" title="Projektų saugykla (2025)">
+</div>
+
+# Patalpų istorija
+
 Kaunas Makerspace per ilgus gyvavimo metus buvo įsikūręs:
 * „Fluxus ministerijoje“ prie Kauno pilies
 * Garaže
@@ -25,19 +47,15 @@ Kaunas Makerspace per ilgus gyvavimo metus buvo įsikūręs:
 * KTU Architektūros ir statybos institute - teko išsikraustyti, kai prasidėjo pastato rekonstrukcija
 * Nuo 2024 metų nuomojamės patalpas iš „Kauno Energijos“
 
-## Patalpos Raudondvario pl. 86A nuo 2024 metų
-
-2024 vasario 23 gavome raktus į naujas patalpas „Kauno Energijos" rūsyje ir prasidėjo įsikūrimo darbai.
-
-Nulieję daug prakaito ir kraujo pristatome keletą nuotraukų kaip patalpos atrodė prieš pradedant darbus ir kaip atrodė praėjus metams.
-
-Pirmiausia kviečiame pažiūrėti video kompiliaciją iš statybų etapo ir prisiminti, o galbūt pamatyti praleistus epizodus, kaip mums sekėsi paruošti dabartines patalpas:
+## 2024-02-23 Kraustymasis į naujas patalpas Raudondvario pl. 86A
 
 <iframe src="https://www.youtube-nocookie.com/embed/0UNG4EzirxU?si=pklLbYeGCa4IXSEt&amp;start=0" title="YouTube video player" frameborder="0" allow="autoplay; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" width="100%" height="300px"></iframe>
 
-Žemiau yra nuotraukų palyginimai prieš ir po. Kairėje pusėje nuotraukos darytos prieš pat statybų pradžią (t.y. vos pusvalandžiui iki pirmą kart užsimojant plaktuku), o dešinėje - darytos 2025 vasarį (paspauskite ant nuotraukos norėdami padidinti).
+Nulieję daug prakaito ir kraujo pristatome keletą nuotraukų kaip patalpos atrodė prieš pradedant darbus ir kaip atrodė praėjus metams. Kairėje pusėje nuotraukos darytos prieš pat statybų pradžią (t.y. vos pusvalandžiui iki pirmą kart užsimojant plaktuku), o dešinėje - darytos 2025 vasarį (paspauskite ant nuotraukos norėdami padidinti).
 
 Makerspace nebūtų be bendruomenės - visų mūsų kurie prisidėjo ir prisideda, statybose, finansiškai ar dovanodami puikius įrankius - ir tik visų mūsų dėka pasiekėme tokio nerealaus rezultato!
+
+<details><summary>išskleisti…</summary>
 
 **Nuotraukų ir video autorius:** Renardas Gruodis
 
@@ -88,3 +106,4 @@ Makerspace nebūtų be bendruomenės - visų mūsų kurie prisidėjo ir prisided
   <img src="/assets/DhsmlFaDR/projektai-1.jpg" title="Projektai 1">
   <img src="/assets/DhsmlFaDR/projektai-2.jpg" title="Projektai 2">
 </div>
+</details>
